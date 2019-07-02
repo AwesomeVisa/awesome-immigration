@@ -38,6 +38,20 @@
     - [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-indicator-smc-28aug)
     - Minimum Points: 100
 
+### Singapore
+
+- [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass)
+
+    - Length of Stay: 2 year (new pass), 3 years (subsequent)
+    - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
+
+
+- [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
+
+    - Length of Stay: 2 year
+    - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
+
+
 ## Post Study Visa
 
 ### New Zealand
@@ -62,3 +76,9 @@
     - Length of Stay: Indefinitely
     - [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-scale-entrepreneurs-work-visa)
     - Minimum Points: 120
+
+### Singapore
+
+- [EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass)
+
+    - Length of Stay: 1 year (new pass), 2 years (subsequent)
