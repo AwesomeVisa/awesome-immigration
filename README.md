@@ -2,6 +2,6 @@
 
 ## Contents
 
-- [New Zealand](#New Zealand)
+- [New Zealand](#new-zealand)
 
 ## New Zealand
