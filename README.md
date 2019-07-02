@@ -29,6 +29,12 @@
     - Length of Stay: 5 years (maximum)
     - Minimum Points: 70
 
+### Netherland
+
+- [Highly skilled migrant](https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx)
+
+    -
+
 ### New Zealand
 
 - [Skilled Migrant Category Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/skilled-migrant-category-resident-visa)
@@ -59,6 +65,12 @@
 - [Post-study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa)
 
     - Length of Stay: 1, 2 or 3 years
+
+### Netherland
+
+- [Looking for a job after study, promotion or research](https://ind.nl/en/work/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx)
+
+- [Work experience as trainee or apprentice](https://ind.nl/en/work/Pages/Work-experience-as-trainee-or-apprentice.aspx)
 
 ## Entrepreneur Visa
 
