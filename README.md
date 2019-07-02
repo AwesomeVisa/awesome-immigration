@@ -3,15 +3,19 @@
 ## Contents
 
 - [Skilled Migrant Visa](skilled-migrant-visa)
-    - [New Zealand](#New-Zealand)
 
 - [Post Study Visa](post-study-visa)
-    - [New Zealand](#New-Zealand)
 
 - [Entrepreneur Visa](entrepreneur-visa)
-    - [New Zealand](#New-Zealand)
 
 ## Skilled Migrant Visa
+
+### Hong Kong
+
+- [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html)
+
+    - [Point Calculator](https://www.immd.gov.hk/eng/services/visas/points-based-tests.html)
+    - Minimum Points: 80
 
 ### Japan
 
