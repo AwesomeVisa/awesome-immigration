@@ -2,16 +2,28 @@
 
 ## Contents
 
-- [Skilled Migrant Visa](Skilled-Migrant-Visa)
+- [Skilled Migrant Visa](skilled-migrant-visa)
     - [New Zealand](#New-Zealand)
 
-- [Post Study Visa](Post-Study-Visa)
+- [Post Study Visa](post-study-visa)
     - [New Zealand](#New-Zealand)
 
-- [Entrepreneur Visa](Entrepreneur-Visa)
+- [Entrepreneur Visa](entrepreneur-visa)
     - [New Zealand](#New-Zealand)
 
 ## Skilled Migrant Visa
+
+### Japan
+
+- [Advanced academic research activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+
+    - Length of Stay: 5 years (maximum)
+    - Minimum Points: 70
+
+- [Advanced specialized/technical activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+
+    - Length of Stay: 5 years (maximum)
+    - Minimum Points: 70
 
 ### New Zealand
 
@@ -31,6 +43,13 @@
     - Length of Stay: 1, 2 or 3 years
 
 ## Entrepreneur Visa
+
+### Japan
+
+- [Advanced business management activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+
+    - Length of Stay: 5 years (maximum)
+    - Minimum Points: 70
 
 ### New Zealand
 
