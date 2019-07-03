@@ -10,6 +10,13 @@
 
 ## Skilled Migrant Visa
 
+### Canada
+
+- [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
+
+    - Length of Stay: Permanently
+    - [Point Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool-immigration-express-entry.html)
+
 ### Australia
 
 - [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189)
