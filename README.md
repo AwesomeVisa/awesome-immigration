@@ -10,6 +10,20 @@
 
 ## Skilled Migrant Visa
 
+### Australia
+
+- [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189)
+
+    - Length of Stay: Permanently
+    - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
+    - Minimum Points: 65
+
+- [Skilled Nominated visa (subclass 190)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190)
+
+    - Length of Stay: Permanently
+    - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
+    - Minimum Points: 65
+
 ### Germany
 
 - [Qualified professionals](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/Fachkraefte/fachkraefte-node.html)
@@ -72,6 +86,16 @@
 
 ## Post Study Visa
 
+### Australia
+
+- [Work and Holiday (462)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)
+
+    - Length of Stay: 1 year
+
+- [Skilled—Recognised Graduate visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-recognition-graduate-476)
+
+    - Length of Stay: 18 months
+
 ### Ireland
 
 - [Working holiday visa](https://www.dfa.ie/travel/visas/working-holiday-visas/)
@@ -93,6 +117,18 @@
 - [Work experience as trainee or apprentice](https://ind.nl/en/work/Pages/Work-experience-as-trainee-or-apprentice.aspx)
 
 ## Entrepreneur Visa
+
+### Australia
+
+- [Business Innovation and Investment (provisional) visa (subclass 188)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-188)
+
+    - Length of Stay: Up to 4 years and 3 months
+    - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
+    - Minimum Points: 65
+
+- [Business Innovation and Investment (permanent) visa (subclass 888)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-888/)
+
+- [Investor visa (subclass 891)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/investor-891)
 
 ### Japan
 
