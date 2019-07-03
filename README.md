@@ -82,6 +82,10 @@
 
     - Length of Stay: 1, 2 or 3 years
 
+- [Working Holiday Visas](https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa)
+
+    - Length of Stay: 12 months, or 23 months if you are from the UK or Canada
+
 ### Netherland
 
 - [Looking for a job after study, promotion or research](https://ind.nl/en/work/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx)
