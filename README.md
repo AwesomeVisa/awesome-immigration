@@ -25,13 +25,13 @@
 
 ### Australia
 
-- [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189)
+- [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189) This visa is for invited workers and New Zealand citizens with skills we need, to live and work permanently anywhere in Australia.
 
     - Length of Stay: Permanently
     - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
     - Minimum Points: 65
 
-- [Skilled Nominated visa (subclass 190)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190)
+- [Skilled Nominated visa (subclass 190)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190) This visa lets nominated skilled workers live and work in Australia as permanent residents.
 
     - Length of Stay: Permanently
     - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
@@ -41,25 +41,25 @@
 
 - [Qualified professionals](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/Fachkraefte/fachkraefte-node.html)
 
-- [Highly-qualified workers](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/Hochqualifizierte/hochqualifizierte-node.html)
+- [Highly-qualified workers](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/Hochqualifizierte/hochqualifizierte-node.html) Highly-qualified foreigners are in particular scientists with special technical knowledge, as well as teaching personnel and scientific personnel in prominent positions.
 
-- [The EU Blue Card](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/BlaueKarte/blaue-karte-node.html)
+- [The EU Blue Card](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/BlaueKarte/blaue-karte-node.html) The EU Blue Card enables third-country nationals who are university graduates or who have a comparable qualification to receive a residence title for the purpose of employment suiting their qualification.
 
 ### Hong Kong
 
-- [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html)
+- [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html) It seeks to attract highly skilled or talented persons to settle in Hong Kong in order to enhance Hong Kong's economic competitiveness.
 
     - [Point Calculator](https://www.immd.gov.hk/eng/services/visas/points-based-tests.html)
     - Minimum Points: 80
 
 ### Japan
 
-- [Advanced academic research activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+- [Advanced academic research activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html) Activities of engaging in research, research guidance or education based on a contract entered into with a public or private organization in Japan.
 
     - Length of Stay: 5 years (maximum)
     - Minimum Points: 70
 
-- [Advanced specialized/technical activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+- [Advanced specialized/technical activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html) Activities of engaging in work requiring specialized knowledge or skills in the field of natural sciences or humanities based on a contract entered into with a public or private organization in Japan.
 
     - Length of Stay: 5 years (maximum)
     - Minimum Points: 70
@@ -85,13 +85,13 @@
 
 ### Singapore
 
-- [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass)
+- [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass) The Employment Pass allows foreign professionals, managers and executives to work in Singapore. Candidates need to earn at least $3,600 a month and have acceptable qualifications.
 
     - Length of Stay: 2 year (new pass), 3 years (subsequent)
     - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
 
 
-- [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
+- [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass) The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $2,300 a month and have the relevant qualifications and work experience.
 
     - Length of Stay: 2 year
     - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
@@ -101,47 +101,49 @@
 
 ### Australia
 
-- [Work and Holiday (462)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)
+- [Work and Holiday (462)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462) For young adults who want an extended holiday and to work here to fund it.
 
     - Length of Stay: 1 year
 
-- [Skilled—Recognised Graduate visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-recognition-graduate-476)
+- [Skilled—Recognised Graduate visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-recognition-graduate-476) This visa  allows recent engineering graduates to live, work or study in Australia for up to 18 months. You must have completed a degree or higher qualification from a specified institution within the past 2 years, and be under 31 years of age.
 
     - Length of Stay: 18 months
 
 ### Ireland
 
-- [Working holiday visa](https://www.dfa.ie/travel/visas/working-holiday-visas/)
+- [Working holiday visa](https://www.dfa.ie/travel/visas/working-holiday-visas/) Ireland’s working holiday agreements with other governments allow young people of both countries to fund an extended holiday through temporary work.
 
 ### New Zealand
 
-- [Post-study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa)
+- [Post-study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa) If you have acceptable qualifications(s) that you completed in New Zealand, you can apply for a visa to work here. Depending on your qualification and where you studied, you can work for any employer for between 1 and 3 years, and do almost any work.
 
     - Length of Stay: 1, 2 or 3 years
 
-- [Working Holiday Visas](https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa)
+- [Working Holiday Visas](https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa) Every year hundreds of young people apply for New Zealand working holiday visas, and spend a year or two working in New Zealand.
 
     - Length of Stay: 12 months, or 23 months if you are from the UK or Canada
 
 ### Netherland
 
-- [Looking for a job after study, promotion or research](https://ind.nl/en/work/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx)
+- [Looking for a job after study, promotion or research](https://ind.nl/en/work/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx) You have graduated or obtained a PhD or performed scientific research and wish to find a job or start your own company . You live abroad or are still in the Netherlands. You need a residence permit 'orientation year highly educated persons'.
 
-- [Work experience as trainee or apprentice](https://ind.nl/en/work/Pages/Work-experience-as-trainee-or-apprentice.aspx)
+- [Work experience as trainee or apprentice](https://ind.nl/en/work/Pages/Work-experience-as-trainee-or-apprentice.aspx) You wish to gain work experience in the Netherlands as a trainee (for study purposes) or apprentice (for work purposes). You need a residence permit for this.
 
 ## Entrepreneur Visa
 
 ### Australia
 
-- [Business Innovation and Investment (provisional) visa (subclass 188)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-188)
+- [Business Innovation and Investment (provisional) visa (subclass 188)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-188) This visa allows you to own and manage a business in Australia, conduct business and investment activity in Australia or undertake an entrepreneurial activity in Australia
 
     - Length of Stay: Up to 4 years and 3 months
     - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
     - Minimum Points: 65
 
-- [Business Innovation and Investment (permanent) visa (subclass 888)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-888/)
+- [Business Innovation and Investment (permanent) visa (subclass 888)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-888/) For entrepreneurs, investors and business owners to continue their activity in Australia.
 
-- [Investor visa (subclass 891)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/investor-891)
+    - Length of Stay: Permanently
+
+- [Investor visa (subclass 891)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/investor-891) This visa is for people who undertake business and investment activities in Australia. It allows you to stay in Australia indefinitely. To apply as a primary applicant, you must have a qualifying visa granted on a particular basis.
 
 ### Canada
 
@@ -149,14 +151,14 @@
 
 ### Japan
 
-- [Advanced business management activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+- [Advanced business management activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html) Activities of engaging in the operation or management of a public or private organization in Japan.
 
     - Length of Stay: 5 years (maximum)
     - Minimum Points: 70
 
 ### New Zealand
 
-- [Entrepreneur Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/entrepreneur-resident-visa)
+- [Entrepreneur Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/entrepreneur-resident-visa) This visa is for people who have been self-employed in New Zealand at least 6 months, or have operated a business for two years on another visa that allows self-employment.
 
     - Length of Stay: Indefinitely
     - [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-scale-entrepreneurs-work-visa)
@@ -164,6 +166,6 @@
 
 ### Singapore
 
-- [EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass)
+- [EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass) The EntrePass allows eligible foreigners to start and operate a new business in Singapore. Find out what businesses are eligible, how to apply and the requirements for renewing the pass.
 
     - Length of Stay: 1 year (new pass), 2 years (subsequent)
