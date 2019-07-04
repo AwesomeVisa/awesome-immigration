@@ -1,7 +1,5 @@
 # Awesome Immigration
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ## Contents
@@ -16,10 +14,14 @@
 
 ### Canada
 
-- [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
+- [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) Immigrate as a skilled worker
 
     - Length of Stay: Permanently
     - [Point Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool-immigration-express-entry.html)
+
+- [Quebec-selected skilled workers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers.html) Immigrate as a skilled worker in the province of Quebec
+
+    - Length of Stay: Permanently
 
 ### Australia
 
@@ -140,6 +142,10 @@
 - [Business Innovation and Investment (permanent) visa (subclass 888)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/business-innovation-and-investment-888/)
 
 - [Investor visa (subclass 891)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/investor-891)
+
+### Canada
+
+- [Start-up Visa](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html) Immigrate by starting a business and creating jobs
 
 ### Japan
 
