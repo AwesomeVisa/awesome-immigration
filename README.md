@@ -84,6 +84,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Age Range: 55 or under
     - [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-indicator-smc-28aug)
     - Minimum Points: 100
+    - 'Currently, we are only selecting EOIs with 160 points or above'
 
 ### Singapore
 
