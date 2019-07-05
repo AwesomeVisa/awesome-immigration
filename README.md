@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+__This list is built to provide convenience for those who aim to immigrate to other countries. All information is extracted from the official immigration sites of the following countries. If you find any inaccurate information, please add a pull request. In addition, you are welcome to contribute, but do please only add information from the official immigration site of each country, many thanks!__
+
 ## Contents
 
 - [Skilled Migrant Visa](skilled-migrant-visa)
