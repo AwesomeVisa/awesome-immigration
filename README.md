@@ -20,7 +20,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
     - Length of Stay: Permanently
     - [Point Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool-immigration-express-entry.html)
-    - [Requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers.html#skilled)
+    - [Requirements](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/federal-skilled-workers/six-selection-factors-federal-skilled-workers.html)
 
 - [Quebec-selected skilled workers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers.html) Immigrate as a skilled worker in the province of Quebec
 
