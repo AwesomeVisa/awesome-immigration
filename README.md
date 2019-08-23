@@ -106,6 +106,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
     - Length of Stay: a maximum of 5 years and 14 days
     - [Point Document](https://www.gov.uk/government/publications/points-based-system-tier-2)
+    - Minimum Points: 70
 
 ## Post Study Visa
 
