@@ -108,6 +108,10 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - [Point Document](https://www.gov.uk/government/publications/points-based-system-tier-2)
     - Minimum Points: 70
 
+### US
+
+- [Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3) You may be eligible for this immigrant visa preference category if you are a skilled worker, professional, or other worker: 1. “Skilled workers” are persons whose job requires a minimum of 2 years training or work experience, not of a temporary or seasonal nature; 2. “Professionals” are persons whose job requires at least a U.S. baccalaureate degree or a foreign equivalent and are a member of the professions; 3. The “other workers” subcategory is for persons performing unskilled labor requiring less than 2 years training or experience, not of a temporary or seasonal nature.
+
 ## Post Study Visa
 
 ### Australia
