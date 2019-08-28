@@ -43,6 +43,23 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
     - Intro: Immigrate as a skilled worker in the province of Quebec
     - Length of Stay: Permanently
+    
+### Denmark
+
+- [Fast-Track](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Fast-track)
+    
+    - Intro: You have been offered employment in a certified company. Your employer can apply for Danish residence and work permit on your behalf via the Fast-track scheme.
+    - Length of Stay: 4 years
+    
+- [The Pay Limit Scheme](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme)
+
+    - Intro: You have been offered a job in Denmark with a salary of DKK 426,985.06 or higher.
+    - Length of Stay: 4 years
+
+- [The Positive List](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Positivlisten)
+    
+    - Intro: You have been offered a job included in the list of professions experiencing a shortage of qualified professionals in Denmark.
+    - Length of Stay: 4 years
 
 ### Germany
 
