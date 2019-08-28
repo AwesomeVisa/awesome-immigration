@@ -215,3 +215,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 - [EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass) 
     - Intro: The EntrePass allows eligible foreigners to start and operate a new business in Singapore. Find out what businesses are eligible, how to apply and the requirements for renewing the pass.
     - Length of Stay: 1 year (new pass), 2 years (subsequent)
+
+### UK
+
+- [Start-up visa](https://www.gov.uk/start-up-visa)
+
+    - Intro: You can apply for a Start-up visa if:
+        1. you want to set up a business in the UK
+        2. you’re from outside the European Economic Area (EEA) and Switzerland
+        3. you meet the other eligibility requirements
+    - Length of Stay: 2 years
