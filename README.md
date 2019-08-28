@@ -165,6 +165,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Work experience as trainee or apprentice](https://ind.nl/en/work/Pages/Work-experience-as-trainee-or-apprentice.aspx) 
     - Intro: You wish to gain work experience in the Netherlands as a trainee (for study purposes) or apprentice (for work purposes). You need a residence permit for this.
+    
+### Norway
+
+- [Job seekers](https://www.udi.no/en/want-to-apply/work-immigration/job-seekers)
+    
+    - Intro: You must normally have received a job offer in Norway before you can apply for a residence permit for work purposes. If you are a skilled worker, you may in some exceptional cases get a residence permit to stay in Norway while you look for work.
+    - Length of Stay: 1 year
 
 ## Entrepreneur Visa
 
