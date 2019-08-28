@@ -61,6 +61,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Intro: You have been offered a job included in the list of professions experiencing a shortage of qualified professionals in Denmark.
     - Length of Stay: 4 years
 
+### Finland
+
+- [Residence permit application for an employed person (TTOL)](https://migri.fi/en/residence-permit-for-an-employed-person)
+
+    - Intro: Apply for a residence permit with this application if you are coming to Finland to work for a Finnish employer or other employer operating in Finland and you have signed a contract of employment or accepted a binding job offer. A residence permit for an employed person is connected with labour market testing, which means that the employer must establish if there is available labour force within a reasonable time in Finland or within the EU/EEA for the work in question.
+
 ### Germany
 
 - [Qualified professionals](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/Fachkraefte/fachkraefte-node.html)
@@ -235,6 +241,16 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 - [Start-up Visa](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa.html)
 
     - Intro: Immigrate by starting a business and creating jobs
+    
+### Finland
+
+- [Residence permit application for an entrepreneur](https://migri.fi/en/entrepreneur)
+
+    - Intro: Apply with this application for a residence permit if you intend to come to Finland to become an entrepreneur. Before a permit can be issued, entrepreneurs usually need to enter their business in the Trade Register maintained by the Finnish Patent and Registration Office.
+    
+- [Residence permit application for a start-up entrepreneur](https://migri.fi/en/start-up-entrepreneur)
+
+    - Intro: Apply with this application for a residence permit if you intend to come to Finland as a start-up entrepreneur. You must obtain a positive Eligibility Statement from Business Finland before you can apply for this permit. A start-up entrepreneur cannot get a residence permit without a positive statement from Business Finland.
 
 ### Japan
 
