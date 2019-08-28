@@ -92,6 +92,14 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Minimum Points: 100
     - 'Currently, we are only selecting EOIs with 160 points or above'
 
+### Norway
+
+- [Skilled workers](https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers)
+    
+    - Intro: If you have completed higher education or have completed vocational training, you can apply for a residence permit as a skilled worker. You must normally already have received a job offer, or have your own business.
+    - Length of Stay: 3 years
+    
+
 ### Singapore
 
 - [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass) 
