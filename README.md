@@ -225,3 +225,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
         2. you’re from outside the European Economic Area (EEA) and Switzerland
         3. you meet the other eligibility requirements
     - Length of Stay: 2 years
+
+- [Investor visa (Tier 1)](https://www.gov.uk/tier-1-investor)
+
+    - Intro: You can apply for a Tier 1 (Investor) visa if:
+        1. you want to invest £2,000,000 or more in the UK
+        2. you’re from outside the European Economic Area (EEA) and Switzerland
+        2. you meet the other eligibility requirements
+
+    - Length of Stay: 5 years and 4 months.
