@@ -6,11 +6,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ## Contents
 
-- [Skilled Migrant Visa](skilled-migrant-visa)
+- [Skilled Migrant Visa](#skilled-migrant-visa)
 
-- [Post Study Visa](post-study-visa)
+- [Post Study Visa](#post-study-visa)
 
-- [Entrepreneur Visa](entrepreneur-visa)
+- [Entrepreneur Visa](#entrepreneur-visa)
 
 ## Skilled Migrant Visa
 
