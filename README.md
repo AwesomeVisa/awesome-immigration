@@ -137,14 +137,14 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass)
 
-    - Intro: The Employment Pass allows foreign professionals, managers and executives to work in Singapore. Candidates need to earn at least $3,600 a month and have acceptable qualifications.
+    - Intro: The Employment Pass allows foreign professionals, managers and executives to work in Singapore. Candidates need to earn at least $4,500 a month and have acceptable qualifications.
     - Length of Stay: 2 year (new pass), 3 years (subsequent)
     - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
 
 
 - [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
 
-    - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $2,300 a month and have the relevant qualifications and work experience.
+    - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $2,500 a month and have the relevant qualifications and work experience.
     - Length of Stay: 2 year
     - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
 
