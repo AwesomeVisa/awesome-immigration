@@ -256,7 +256,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Japan
 
-- [Advanced business management activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+- [Advanced business management activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
 
     - Intro: Activities of engaging in the operation or management of a public or private organization in Japan.
     - Length of Stay: 5 years (maximum)
