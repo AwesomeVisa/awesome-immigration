@@ -91,13 +91,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Japan
 
-- [Advanced academic research activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+- [Advanced academic research activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
 
     - Intro: Activities of engaging in research, research guidance or education based on a contract entered into with a public or private organization in Japan.
     - Length of Stay: 5 years (maximum)
     - Minimum Points: 70
 
-- [Advanced specialized/technical activities](http://www.immi-moj.go.jp/newimmiact_3/en/system/index.html)
+- [Advanced specialized/technical activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
 
     - Intro: Activities of engaging in work requiring specialized knowledge or skills in the field of natural sciences or humanities based on a contract entered into with a public or private organization in Japan.
     - Length of Stay: 5 years (maximum)
