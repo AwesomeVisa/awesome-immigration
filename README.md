@@ -73,13 +73,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Germany
 
-- [Qualified professionals](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/Fachkraefte/fachkraefte-node.html)
-
-- [Highly-qualified workers](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/Hochqualifizierte/hochqualifizierte-node.html)
+- [Qualified professionals](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work-qualified-professionals/)
 
     - Intro: Highly-qualified foreigners are in particular scientists with special technical knowledge, as well as teaching personnel and scientific personnel in prominent positions.
 
-- [The EU Blue Card](http://www.bamf.de/EN/Migration/Arbeiten/BuergerDrittstaat/BlaueKarte/blaue-karte-node.html)
+- [The EU Blue Card](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/eu-blue-card)
 
     - Intro: The EU Blue Card enables third-country nationals who are university graduates or who have a comparable qualification to receive a residence title for the purpose of employment suiting their qualification.
 
