@@ -204,11 +204,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Netherland
 
-- [Looking for a job after study, promotion or research](https://ind.nl/en/work/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx)
+- [Looking for a job after study, promotion or research](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx)
 
     - Intro: You have graduated or obtained a PhD or performed scientific research and wish to find a job or start your own company . You live abroad or are still in the Netherlands. You need a residence permit 'orientation year highly educated persons'.
 
-- [Work experience as trainee or apprentice](https://ind.nl/en/work/Pages/Work-experience-as-trainee-or-apprentice.aspx)
+- [Work experience as trainee or apprentice](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Work-experience-as-trainee-or-apprentice.aspx)
 
     - Intro: You wish to gain work experience in the Netherlands as a trainee (for study purposes) or apprentice (for work purposes). You need a residence permit for this.
     
