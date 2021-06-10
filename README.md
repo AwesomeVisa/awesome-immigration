@@ -186,6 +186,15 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Intro: This visa  allows recent engineering graduates to live, work or study in Australia for up to 18 months. You must have completed a degree or higher qualification from a specified institution within the past 2 years, and be under 31 years of age.
     - Length of Stay: 18 months
 
+### Hong Kong
+
+- [Immigration Arrangements for Non-local Graduates](https://www.immd.gov.hk/eng/services/visas/IANG.html)
+    - Intro: IANG is the **overall** best visa type for many people who seek for long term residence in Hong Kong.
+        1. Easy to obtain: one can immediately get 1 year IANG visa post study
+        2. Long visa valid period: one can renew visa with 1-2-3 schedule; afterwards all 3 years
+        3. Non work biding: One only needs to have a employer sponsor at the time of application; no requirements of maintaining employment status till the end of visa valid period.
+        4. Dependent friendly: mainland China expacts can support parent's dependent visa in the valid period of IANG. Cautious: once a *mainland expat* changes to HK permanent residence (passport holder) status, she can no longer support parent's dependent via.
+
 ### Ireland
 
 - [Working holiday visa](https://www.dfa.ie/travel/visas/working-holiday-visas/)
