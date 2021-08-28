@@ -152,6 +152,25 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
     - Intro: You must have been offered a job before you can obtain a work permit. You cannot enter Sweden until the permit has been granted. You cannot obtain a work permit to go to Sweden and look for a job. 
 
+### UAE
+
+- [Specialists in Science and Engineering Golden VisaGolden Visa](https://adro.gov.ae/golden-visa/Special-Talent/Specialized-in-Engineering-or-Science)
+
+    - Intro: You can apply for this visa, if you:
+        1. Have a Bachelor or Master degree from a leading university, accredited by the UAE Ministry of Education, in one of the following disciplines:
+            1. Epidemiology and Virology
+            2. Artificial Intelligence (AI)
+            3. Big data
+            4. Computer engineering
+            5. Electronics
+            6. Software engineering
+            7. Electrical engineering
+            8. Genetic engineering
+            9. Biotechnology engineering
+            10. Must be practicing one of the disciplines
+    - Length of Stay: 10 years
+
+
 ### UK
 
 - [General work visa (Tier 2)](https://www.gov.uk/tier-2-general)
