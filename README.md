@@ -170,7 +170,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
             10. Must be practicing one of the disciplines
     - Length of Stay: 10 years
 
-
+- [PhD Holders Golden Visa](https://adro.gov.ae/golden-visa/Special-Talent/PhD-Holders)
+    - Intro: You can apply for this visa, if you:
+        - Have a doctorate degree attested by the UAE Ministry of Education
+    - To Apply:
+        1. A doctorate degree, attested by the UAE Ministry of Education in one of the high-priority disciplines
+        2. An employment contract attested by the UAE Ministry of Human Resources and Emiratisation in one of the high-priority disciplines
+ 
 ### UK
 
 - [General work visa (Tier 2)](https://www.gov.uk/tier-2-general)
