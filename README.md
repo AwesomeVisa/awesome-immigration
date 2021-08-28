@@ -176,6 +176,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - To Apply:
         1. A doctorate degree, attested by the UAE Ministry of Education in one of the high-priority disciplines
         2. An employment contract attested by the UAE Ministry of Human Resources and Emiratisation in one of the high-priority disciplines
+    - Length of Stay: 10 years
  
 ### UK
 
@@ -311,6 +312,15 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
     - Intro: The EntrePass allows eligible foreigners to start and operate a new business in Singapore. Find out what businesses are eligible, how to apply and the requirements for renewing the pass.
     - Length of Stay: 1 year (new pass), 2 years (subsequent)
+
+### UAE
+
+- [Entrepreneur Golden Visa](https://adro.gov.ae/golden-visa/Entrepreneur)
+
+    - Intro: The Entrepreneur Golden Visa is for entrepreneurs looking to set up a business in Abu Dhabi.
+    - Must have a successful project in the UAE of a value of at least AED 500,000
+    - Length of Stay: 5 years
+
 
 ### UK
 
