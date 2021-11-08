@@ -254,6 +254,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Intro: You must normally have received a job offer in Norway before you can apply for a residence permit for work purposes. If you are a skilled worker, you may in some exceptional cases get a residence permit to stay in Norway while you look for work.
     - Length of Stay: 1 year
 
+### Canada
+
+- [Post-Graduation Work Permit Program (PGWPP)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html)
+
+    - Intro: Within the first 180 days of your graduation in an [eligible Canadian post-secondary education institution](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program/institutions.html), you can apply for the PGWP if the duration of study is at least 8 months.
+    - Length of Stay: 8 months to 3 years
+
 ## Entrepreneur Visa
 
 ### Australia
