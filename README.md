@@ -212,6 +212,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Intro: This visa  allows recent engineering graduates to live, work or study in Australia for up to 18 months. You must have completed a degree or higher qualification from a specified institution within the past 2 years, and be under 31 years of age.
     - Length of Stay: 18 months
 
+### Canada
+
+- [Post-Graduation Work Permit Program (PGWPP)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html)
+
+    - Intro: Within the first 180 days of your graduation in an [eligible Canadian post-secondary education institution](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program/institutions.html), you can apply for the PGWP if the duration of study is at least 8 months.
+    - Length of Stay: 8 months to 3 years
+
 ### Hong Kong
 
 - [Immigration Arrangements for Non-local Graduates](https://www.immd.gov.hk/eng/services/visas/IANG.html)
@@ -239,9 +246,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Netherland
 
-- [Looking for a job after study, promotion or research](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx)
+- [Orientation visa for highly educated persons](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx) 
 
     - Intro: You have graduated or obtained a PhD or performed scientific research and wish to find a job or start your own company . You live abroad or are still in the Netherlands. You need a residence permit 'orientation year highly educated persons'.
+    - [FAQ ‘Orientation year highly educated persons’](https://ind.nl/en/documents/faq_orientation_year_highly_educated_persons.pdf)
+    - [Orientation visa for highly educated persons](https://business.gov.nl/coming-to-the-netherlands/permits-and-visa/orientation-visa-for-highly-educated-persons/)
 
 - [Work experience as trainee or apprentice](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Work-experience-as-trainee-or-apprentice.aspx)
 
@@ -254,12 +263,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Intro: You must normally have received a job offer in Norway before you can apply for a residence permit for work purposes. If you are a skilled worker, you may in some exceptional cases get a residence permit to stay in Norway while you look for work.
     - Length of Stay: 1 year
 
-### Canada
+### UK
 
-- [Post-Graduation Work Permit Program (PGWPP)](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program.html)
+- [High Potential Individual visa](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list)
+    
+    - Intro: The High Potential Individual (HPI) route is a short-term work visa for individuals at an early career stage, who have shown they have potential to benefit the UK workforce. From 30 May 2022, you can apply for the HPI route if you have graduated from an eligible international university in the 5 years immediately before your application. You don’t need to have a job offer to apply.
 
-    - Intro: Within the first 180 days of your graduation in an [eligible Canadian post-secondary education institution](https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/temporary-residents/study-permits/post-graduation-work-permit-program/institutions.html), you can apply for the PGWP if the duration of study is at least 8 months.
-    - Length of Stay: 8 months to 3 years
+    - Length of Stay: a 2-year work visa (3-year for those with a PhD)
 
 ## Entrepreneur Visa
 
