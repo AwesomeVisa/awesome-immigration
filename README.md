@@ -20,14 +20,14 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Australia
 
-- [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189) 
+#### [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189) 
 
     - Intro: This visa is for invited workers and New Zealand citizens with skills we need, to live and work permanently anywhere in Australia.
     - Length of Stay: Permanently
     - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
     - Minimum Points: 65
 
-- [Skilled Nominated visa (subclass 190)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190)
+#### [Skilled Nominated visa (subclass 190)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-nominated-190)
 
     - Intro: This visa lets nominated skilled workers live and work in Australia as permanent residents.
     - Length of Stay: Permanently
@@ -50,40 +50,40 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     
 ### Denmark
 
-- [Fast-Track](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Fast-track)
+#### [Fast-Track](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Fast-track)
     
     - Intro: You have been offered employment in a certified company. Your employer can apply for Danish residence and work permit on your behalf via the Fast-track scheme.
     - Length of Stay: 4 years
     
-- [The Pay Limit Scheme](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme)
+#### [The Pay Limit Scheme](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme)
 
     - Intro: You have been offered a job in Denmark with a salary of DKK 426,985.06 or higher.
     - Length of Stay: 4 years
 
-- [The Positive List](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Positivlisten)
+#### [The Positive List](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Positivlisten)
     
     - Intro: You have been offered a job included in the list of professions experiencing a shortage of qualified professionals in Denmark.
     - Length of Stay: 4 years
 
 ### Finland
 
-- [Residence permit application for an employed person (TTOL)](https://migri.fi/en/residence-permit-for-an-employed-person)
+#### [Residence permit application for an employed person (TTOL)](https://migri.fi/en/residence-permit-for-an-employed-person)
 
     - Intro: Apply for a residence permit with this application if you are coming to Finland to work for a Finnish employer or other employer operating in Finland and you have signed a contract of employment or accepted a binding job offer. A residence permit for an employed person is connected with labour market testing, which means that the employer must establish if there is available labour force within a reasonable time in Finland or within the EU/EEA for the work in question.
 
 ### Germany
 
-- [Qualified professionals](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work-qualified-professionals/)
+#### [Qualified professionals](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work-qualified-professionals/)
 
     - Intro: Highly-qualified foreigners are in particular scientists with special technical knowledge, as well as teaching personnel and scientific personnel in prominent positions.
 
-- [The EU Blue Card](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/eu-blue-card)
+#### [The EU Blue Card](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/eu-blue-card)
 
     - Intro: The EU Blue Card enables third-country nationals who are university graduates or who have a comparable qualification to receive a residence title for the purpose of employment suiting their qualification.
 
 ### Hong Kong
 
-- [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html)
+#### [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html)
 
     - Intro: It seeks to attract highly skilled or talented persons to settle in Hong Kong in order to enhance Hong Kong's economic competitiveness.
     - [Point Calculator](https://www.immd.gov.hk/eng/services/visas/points-based-tests.html)
@@ -91,13 +91,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Japan
 
-- [Advanced academic research activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
+#### [Advanced academic research activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
 
     - Intro: Activities of engaging in research, research guidance or education based on a contract entered into with a public or private organization in Japan.
     - Length of Stay: 5 years (maximum)
     - Minimum Points: 70
 
-- [Advanced specialized/technical activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
+#### [Advanced specialized/technical activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
 
     - Intro: Activities of engaging in work requiring specialized knowledge or skills in the field of natural sciences or humanities based on a contract entered into with a public or private organization in Japan.
     - Length of Stay: 5 years (maximum)
@@ -105,17 +105,17 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Ireland
 
-- [Employment Visa](http://inis.gov.ie/en/INIS/Pages/Employment%20(Permits%20etc.))
+#### [Employment Visa](http://inis.gov.ie/en/INIS/Pages/Employment%20(Permits%20etc.))
 
-- [Employment (Scientific Researcher)](http://www.inis.gov.ie/en/INIS/Pages/Employment%20Scientific%20Researcher)
+#### [Employment (Scientific Researcher)](http://www.inis.gov.ie/en/INIS/Pages/Employment%20Scientific%20Researcher)
 
 ### Netherland
 
-- [Highly skilled migrant](https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx)
+#### [Highly skilled migrant](https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx)
 
 ### New Zealand
 
-- [Skilled Migrant Category Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/skilled-migrant-category-resident-visa)
+#### [Skilled Migrant Category Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/skilled-migrant-category-resident-visa)
     
     - Length of Stay: Indefinitely
     - Age Range: 55 or under
@@ -125,7 +125,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Norway
 
-- [Skilled workers](https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers)
+#### [Skilled workers](https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers)
     
     - Intro: If you have completed higher education or have completed vocational training, you can apply for a residence permit as a skilled worker. You must normally already have received a job offer, or have your own business.
     - Length of Stay: 3 years
@@ -133,14 +133,14 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Singapore
 
-- [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass)
+#### [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass)
 
     - Intro: The Employment Pass allows foreign professionals, managers and executives to work in Singapore. Candidates need to earn at least $4,500 a month and have acceptable qualifications.
     - Length of Stay: 2 year (new pass), 3 years (subsequent)
     - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
 
 
-- [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
+#### [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
 
     - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $2,500 a month and have the relevant qualifications and work experience.
     - Length of Stay: 2 year
@@ -148,13 +148,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Sweden
 
-- [Work permit](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html)
+#### [Work permit](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html)
 
     - Intro: You must have been offered a job before you can obtain a work permit. You cannot enter Sweden until the permit has been granted. You cannot obtain a work permit to go to Sweden and look for a job. 
 
 ### UAE
 
-- [Specialists in Science and Engineering Golden VisaGolden Visa](https://adro.gov.ae/golden-visa/Special-Talent/Specialized-in-Engineering-or-Science)
+#### [Specialists in Science and Engineering Golden VisaGolden Visa](https://adro.gov.ae/golden-visa/Special-Talent/Specialized-in-Engineering-or-Science)
 
     - Intro: You can apply for this visa, if you:
         1. Have a Bachelor or Master degree from a leading university, accredited by the UAE Ministry of Education, in one of the following disciplines:
@@ -170,7 +170,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
             10. Must be practicing one of the disciplines
     - Length of Stay: 10 years
 
-- [PhD Holders Golden Visa](https://adro.gov.ae/golden-visa/Special-Talent/PhD-Holders)
+#### [PhD Holders Golden Visa](https://adro.gov.ae/golden-visa/Special-Talent/PhD-Holders)
     - Intro: You can apply for this visa, if you:
         - Have a doctorate degree attested by the UAE Ministry of Education
     - To Apply:
@@ -180,7 +180,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
  
 ### UK
 
-- [General work visa (Tier 2)](https://www.gov.uk/tier-2-general)
+#### [General work visa (Tier 2)](https://www.gov.uk/tier-2-general)
 
     - Intro: You can apply for a Tier 2 (General) visa if: 
         1. you’ve been offered a skilled job in the UK; 
@@ -191,7 +191,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### US
 
-- [Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3)
+#### [Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3)
 
     - Intro: You may be eligible for this immigrant visa preference category if you are a skilled worker, professional, or other worker: 
         1. “Skilled workers” are persons whose job requires a minimum of 2 years training or work experience, not of a temporary or seasonal nature; 
