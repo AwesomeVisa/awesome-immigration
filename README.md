@@ -34,16 +34,16 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
     - Minimum Points: 65
     
- ### Canada
+### Canada
 
-- [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 
+#### [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 
 
     - Intro: Immigrate as a skilled worker
     - Length of Stay: Permanently
     - [Point Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool-immigration-express-entry.html)
     - Minimum Points: 67
 
-- [Quebec-selected skilled workers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers.html) 
+#### [Quebec-selected skilled workers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers.html) 
 
     - Intro: Immigrate as a skilled worker in the province of Quebec
     - Length of Stay: Permanently
