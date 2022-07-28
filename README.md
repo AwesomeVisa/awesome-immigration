@@ -10,11 +10,21 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ## Contents
 
+- [Theoretical Minimum Duration](#theoretical-minimum-duration)
+
 - [Skilled Migrant Visa](#skilled-migrant-visa)
 
 - [Post Study Visa](#post-study-visa)
 
 - [Entrepreneur Visa](#entrepreneur-visa)
+
+## Theoretical Minimum Duration
+
+| Area      | PR  | Passport |
+| --------- | --- | -------- |
+| HK        | 7   | 7        |
+| Singapore | 3   | 5        |
+| UK        | 5   | 5        | 
 
 ## Skilled Migrant Visa
 
