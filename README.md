@@ -20,11 +20,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ## Theoretical Minimum Duration
 
-| Area      | PR  | Passport |
-| --------- | --- | -------- |
-| HK        | 7   | 7        |
-| Singapore | 3   | 5        |
-| UK        | 5   | 5        | 
+| Area      | PR  | Passport | Notes         |
+| --------- | --- | -------- | ------------- |
+| HK        | 7   | 7        |               |
+| Singapore | 3   | 5        | EP / PEP + PR | 
+| UK        | 5   | 5        |               |
 
 ## Skilled Migrant Visa
 
