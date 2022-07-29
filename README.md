@@ -145,6 +145,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $2,500 a month and have the relevant qualifications and work experience.
     - Length of Stay: 2 year
     - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
+    
+#### [Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass)
+
+    - Intro: The Personalised Employment Pass is for high-earning Employment Pass holders and overseas foreign professionals. It is not tied to an employer and offers greater flexibility than an Employment Pass.
+    - Length of Stay: 2 years
 
 ### Sweden
 
@@ -327,7 +332,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [EntrePass](https://www.mom.gov.sg/passes-and-permits/entrepass)
 
-    - Intro: The EntrePass allows eligible foreigners to start and operate a new business in Singapore. Find out what businesses are eligible, how to apply and the requirements for renewing the pass.
+    - Intro: The EntrePass allows eligible foreigners to start and operate a new business in Singapore.
     - Length of Stay: 1 year (new pass), 2 years (subsequent)
 
 ### UAE
@@ -337,7 +342,6 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Intro: The Entrepreneur Golden Visa is for entrepreneurs looking to set up a business in Abu Dhabi.
     - Must have a successful project in the UAE of a value of at least AED 500,000
     - Length of Stay: 5 years
-
 
 ### UK
 
