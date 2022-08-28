@@ -194,6 +194,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - [Point Document](https://www.gov.uk/government/publications/points-based-system-tier-2)
     - Minimum Points: 70
 
+#### [Scale-up Worker visa](https://www.gov.uk/scale-up-worker-visa/your-job)
+
+    - Intro: A Scale-up Worker visa allows you to come to the UK to do an eligible job for a fast-growing UK business (sometimes called a ‘scale-up business’).
+    - Length of Stay: 2 years
+
 ### US
 
 #### [Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3)
