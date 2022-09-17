@@ -8,13 +8,15 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 2. You are welcome to contribute, but do please add information only from the official immigration sites of each country, many thanks!
 
-## Contents
+## Table of Contents
 
 - [Skilled Migrant Visa](#skilled-migrant-visa)
 
 - [Post Study Visa](#post-study-visa)
 
 - [Entrepreneur Visa](#entrepreneur-visa)
+
+- [Certified Immigrant Advisors](#certified-immigrant-advisors)
 
 ## Skilled Migrant Visa
 
