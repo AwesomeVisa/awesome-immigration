@@ -16,9 +16,9 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Entrepreneur Visa](#entrepreneur-visa)
 
-- [Citizenship](https://github.com/acacess/awesome-immigration/blob/master/Citizenship.md)
+- [Citizenship](https://github.com/acacess/awesome-immigration/blob/master/citizenship.md)
 
-- [Certified Immigrant Advisors](#certified-immigrant-advisors)
+- [Certified Immigrant Advisors](https://github.com/acacess/awesome-immigration/blob/master/advisor.md)
 
 ## Skilled Migrant Visa
 
