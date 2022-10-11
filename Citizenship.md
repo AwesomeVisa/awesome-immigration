@@ -2,7 +2,7 @@
 
 ## Estonia
 
-- Estonian citizenship for an adult
+- [Estonian citizenship for an adult](https://www.politsei.ee/en/instructions/estonian-citizenship-for-an-adult)
 
 - Conditions
   1. You can apply for Estonian citizenship, if:
