@@ -6,7 +6,7 @@
 
 ## Canada
 
-- [Public Register of Regulated Canadian Immigration Consultants (RCICs) and Regulated International Student Immigration Advisors (RISIAs) by The College of Immigration and Citizenship Consultants (the College)](https://college-ic.ca/protecting-the-public/find-an-immigration-consultant)
+- [Public Register of Regulated Canadian Immigration Consultants (RCICs) and Regulated International Student Immigration Advisors (RISIAs)](https://college-ic.ca/protecting-the-public/find-an-immigration-consultant)
 
 ## New Zealand
 
