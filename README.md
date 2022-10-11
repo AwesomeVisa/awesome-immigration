@@ -16,7 +16,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Entrepreneur Visa](#entrepreneur-visa)
 
-- [Citizenship](#citizenship)
+- [Citizenship](https://github.com/acacess/awesome-immigration/blob/master/Citizenship.md)
 
 - [Certified Immigrant Advisors](#certified-immigrant-advisors)
 
@@ -370,21 +370,6 @@ __This list is built to provide convenience for those who aim to immigrate to ot
         2. you meet the other eligibility requirements
 
     - Length of Stay: 5 years and 4 months.
-
-## Citizenship
-
-### Estonia
-
-- [Estonian citizenship for an adult](https://www.politsei.ee/en/instructions/estonian-citizenship-for-an-adult)
-- Conditions
-    - You can apply for Estonian citizenship, if:
-    - you have a long-term residence permit or the right of permanent residence
-    - you have lived in Estonia, prior submitting an application, for at least eight years on the ground of a residence permit or by right of residence, of which at least the last five years on a permanent basis
-    - you have passed the Estonian language proficiency examination (this exam is not required, if you have acquired the basic, secondary or higher education in the Estonian language)
-    - you have passed the examination of knowledge of the Constitution of the Republic of Estonia and the Citizenship Act
-    - you have a permanent legal income
-    - your place of residence has been registered in the population register of Estonia
-    - you are loyal to the Estonian state
 
 ## Certified Immigrant Advisors
 
