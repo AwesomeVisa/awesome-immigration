@@ -1,8 +1,8 @@
 ## Retirement Visa
 
-Malaysia
+### Malaysia
 
-[My Second Home Programme (Mm2h)]([url](https://www.malaysia.gov.my/portal/content/15167))
+[My Second Home Programme (Mm2h)](https://www.malaysia.gov.my/portal/content/15167)
 
 - Intro: This visa is promoted by the government of malaysia to allow foreigners who fulfill certain criteria, to stay in malaysia for as long as possible on a multiple-entry social visit pass.
 - Length of Stay: 10 years and renewable
@@ -10,7 +10,15 @@ Malaysia
   - below 50 year-old: a proof of liquid assets worth a minimum of rm500,000 and offshore income of rm10,000 per month.
   - above 50 year-old: a proof of rm350,000 in liquid assets and off shore income of rm10,000 per month.
 
-Thailand
+
+### Portugal 
+
+[D7 - Fixed Residence (Retirement, Religious purpose or Individual Revenues](https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa#fixed-residency)
+
+- Intro: Residency visas allow two entries and is valid for a period of 4 months. During that time, the holder of a residency visa is required to request a residency permit with the Immigration and Border Services (SEF).
+
+
+### Thailand
 
 [Non – Immigrant Visa “O - X” (Long Stay 10 years)](https://consular.mfa.go.th/th/content/80938-non-–-immigrant-visa-“o-x”-(long-stay-10-years))
 
