@@ -24,5 +24,18 @@
 
 - Intro: The purpose of this type of visa is to promote long stay for foreign traveler to Thailand. 
 - Length of Stay: 10 years
+- Minimal age: 50
 - Nationality: (1) Japan (2) Australia (3) Denmark (4) Finland (5) France (6) Germany (7) Italy (8) Netherlands (9) Norway (10) Sweden (11) Switzerland (12) United Kingdom (13) Canada (14) USA
 - Financial requirement: Applicants must have money deposited in Thai bank located in Thailand with the amount of not less than 3 million Baht; or have money deposited in Thai bank located in Thailand with the amount of not less than 1.8 million Baht and have income with the amount of not less than 1.2 million Baht per year.
+
+### UAE
+
+[Retirement visa for UAE residents](https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visa/retirement-visa-for-uae-residents)
+
+- Intro: The new facilities are aimed at providing long-term residency options and the right environment for retirees wishing to reside in the state for prosperity and investment through a stable and high-quality financial and healthy system.
+- Length of Stay: 5 years and renewable
+- Minimal age: 55
+- Financial requirement:
+  - invest in a property worth AED 2 million 
+  - have financial savings of no less than AED 1 million
+  - have an active income of no less than AED 20,000 per month.
