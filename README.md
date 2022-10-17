@@ -14,7 +14,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Post Study Visa](#post-study-visa)
 
-- [Entrepreneur Visa](#entrepreneur-visa)
+- [Entrepreneur Visa](https://github.com/acacess/awesome-immigration/blob/master/entrepreneur.md)
 
 - [Citizenship](https://github.com/acacess/awesome-immigration/blob/master/citizenship.md)
 
