@@ -143,17 +143,22 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     - Length of Stay: 2 year (new pass), 3 years (subsequent)
     - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
 
+#### [Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)
 
-#### [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
-
-    - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $3000 a month and have the relevant qualifications and work experience.
-    - Length of Stay: 2 year
-    - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
+    - Intro: Top talent in business, arts and culture, sports, science and technology, and academia and research.
+    - Length of Stay: 5 years and renewable
+    - Requirement: Earn a fixed monthly salary of at least $30,000 within the last 1 year.
     
 #### [Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass)
 
     - Intro: The Personalised Employment Pass is for high-earning Employment Pass holders and overseas foreign professionals. It is not tied to an employer and offers greater flexibility than an Employment Pass.
     - Length of Stay: 2 years
+    
+#### [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
+
+    - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $3000 a month and have the relevant qualifications and work experience.
+    - Length of Stay: 2 year
+    - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
 
 ### Sweden
 
