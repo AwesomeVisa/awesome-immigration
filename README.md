@@ -4,7 +4,7 @@
 
 __This list is built to provide convenience for those who aim to immigrate to other countries. All information is extracted from the official immigration sites of the following countries.__
 
-1. If you find any inaccurate information, please add a pull request. 
+1. If you find any inaccurate information, please add a pull request.
 
 2. You are welcome to contribute, but do please add information only from the official immigration sites of each country, many thanks!
 
@@ -12,7 +12,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Skilled Migrant Visa](#skilled-migrant-visa)
 
-- [Post Study Visa](#post-study-visa)
+- [Post Study Visa](https://github.com/acacess/awesome-immigration/blob/master/post_study.md)
 
 - [Entrepreneur Visa](https://github.com/acacess/awesome-immigration/blob/master/entrepreneur.md)
 
@@ -37,7 +37,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 - Length of Stay: Permanently
 - [Point Calculator](https://immi.homeaffairs.gov.au/help-support/departmental-forms/online-forms/points-calculator)
 - Minimum Points: 65
-    
+
 ### Canada
 
 #### [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 
@@ -51,14 +51,14 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - Intro: Immigrate as a skilled worker in the province of Quebec
 - Length of Stay: Permanently
-    
+
 ### Denmark
 
 #### [Fast-Track](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Fast-track)
-    
+
 - Intro: You have been offered employment in a certified company. Your employer can apply for Danish residence and work permit on your behalf via the Fast-track scheme.
 - Length of Stay: 4 years
-    
+
 #### [The Pay Limit Scheme](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme)
 
 - Intro: You have been offered a job in Denmark with a salary of DKK 426,985.06 or higher.
@@ -120,7 +120,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 ### New Zealand
 
 #### [Skilled Migrant Category Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/skilled-migrant-category-resident-visa)
-    
+
 - Length of Stay: Indefinitely
 - Age Range: 55 or under
 - [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-indicator-smc-28aug)
@@ -130,10 +130,10 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 ### Norway
 
 #### [Skilled workers](https://www.udi.no/en/want-to-apply/work-immigration/skilled-workers)
-    
+
 - Intro: If you have completed higher education or have completed vocational training, you can apply for a residence permit as a skilled worker. You must normally already have received a job offer, or have your own business.
 - Length of Stay: 3 years
-    
+
 ### Singapore
 
 #### [Employment Pass](https://www.mom.gov.sg/passes-and-permits/employment-pass)
@@ -147,12 +147,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 - Intro: Top talent in business, arts and culture, sports, science and technology, and academia and research.
 - Length of Stay: 5 years and renewable
 - Requirement: Earn a fixed monthly salary of at least $30,000 within the last 1 year.
-    
+
 #### [Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass)
 
 - Intro: The Personalised Employment Pass is for high-earning Employment Pass holders and overseas foreign professionals. It is not tied to an employer and offers greater flexibility than an Employment Pass.
 - Length of Stay: 2 years
-    
+
 #### [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
 
 - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $3000 a month and have the relevant qualifications and work experience.
@@ -163,7 +163,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 #### [Work permit](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html)
 
-- Intro: You must have been offered a job before you can obtain a work permit. You cannot enter Sweden until the permit has been granted. You cannot obtain a work permit to go to Sweden and look for a job. 
+- Intro: You must have been offered a job before you can obtain a work permit. You cannot enter Sweden until the permit has been granted. You cannot obtain a work permit to go to Sweden and look for a job.
 
 ### UAE
 
@@ -186,12 +186,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 #### [PhD Holders Golden Visa](https://adro.gov.ae/golden-visa/Special-Talent/PhD-Holders)
 
 - Intro: You can apply for this visa, if you:
-    - Have a doctorate degree attested by the UAE Ministry of Education
+    1. Have a doctorate degree attested by the UAE Ministry of Education
 - To Apply:
     1. A doctorate degree, attested by the UAE Ministry of Education in one of the high-priority disciplines
     2. An employment contract attested by the UAE Ministry of Human Resources and Emiratisation in one of the high-priority disciplines
 - Length of Stay: 10 years
- 
+
 ### UK
 
 #### [General work visa (Tier 2)](https://www.gov.uk/tier-2-general)
