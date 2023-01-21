@@ -1,4 +1,4 @@
-## Post Study Visa
+## Post Study Visas
 
 ### Australia
 
