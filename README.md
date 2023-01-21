@@ -10,17 +10,19 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ## Table of Contents
 
-- [Skilled Migrant Visa](#skilled-migrant-visa)
+- [Skilled Migrant Visas](#skilled-migrant-visa)
 
-- [Post Study Visa](https://github.com/acacess/awesome-immigration/blob/master/post_study.md)
+- [Post Study Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
 
-- [Entrepreneur Visa](https://github.com/acacess/awesome-immigration/blob/master/entrepreneur.md)
+- [Job Seeker Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker)
 
-- [Citizenship](https://github.com/acacess/awesome-immigration/blob/master/citizenship.md)
+- [Entrepreneur Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
 
-- [Certified Immigrant Advisors](https://github.com/acacess/awesome-immigration/blob/master/advisor.md)
+- [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
 
-## Skilled Migrant Visa
+- [Certified Immigrant Advisors](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md)
+
+## Skilled Migrant Visas
 
 ### Australia
 
