@@ -7,6 +7,8 @@
 - Intro: Foreign nationals who are residing in the territory of the Czech Republic with a long-term residence permit for the purpose of studies and who successfully completed their university education are eligible to file an application for a long-term residence permit for the purpose of seeking employment or, as the case may be, an application for a long-term residence permit for the purpose of starting a business.
 - Length of Stay: 9 months
 
+### Canada
+
 #### [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 
 
 - Intro: Immigrate as a skilled worker
