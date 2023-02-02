@@ -50,6 +50,14 @@
     - Length of Stay: Indefinitely
     - [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-scale-entrepreneurs-work-visa)
     - Minimum Points: 120
+    
+### Netherlands
+
+#### [Start-up](https://ind.nl/en/residence-permits/work/start-up)
+
+- Intro: You want to apply for a residence permit as a start-up.
+- Length of Stay: 1 year
+ 
 
 ### Singapore
 
