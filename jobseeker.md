@@ -1,5 +1,12 @@
 ## Job Seeker Visas
 
+### Czech
+
+#### [Long-term residence of seeking employment](https://www.mvcr.cz/mvcren/article/third-country-nationals-long-term-residence.aspx?q=Y2hudW09NA%3d%3d)
+
+- Intro: Foreign nationals who are residing in the territory of the Czech Republic with a long-term residence permit for the purpose of studies and who successfully completed their university education are eligible to file an application for a long-term residence permit for the purpose of seeking employment or, as the case may be, an application for a long-term residence permit for the purpose of starting a business.
+- Length of Stay: 9 months
+
 #### [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 
 
 - Intro: Immigrate as a skilled worker
