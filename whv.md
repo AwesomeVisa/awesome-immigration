@@ -22,6 +22,14 @@
 - Length of Stay: 24 months
 - Age Limit: 18 to 30, but 18 to 35 in a select few countries.
 
+### Japan
+
+#### [The Working Holiday Programmes in Japan](https://www.mofa.go.jp/j_info/visit/w_holiday/index.html)
+
+- Intro: The working holiday programmes are, based on bilateral arrangements, intended to make it possible for the youth of Japan and its partner countries/regions to enter each country/region primarily for the purpose of spending holidays while allowing them to engage in employment as an incidental activity of their holidays for the purpose of supplementing their travel funds.
+- Length of Stay: 12 months
+- Age Limit: 18 to 30, but 18 to 25 in a select few countries.
+
 ### New Zealand 
 
 #### [Working holiday visas](https://www.immigration.govt.nz/new-zealand-visas/preparing-a-visa-application/working-in-nz/how-long-can-you-work-in-new-zealand-for/working-holiday-visa)
