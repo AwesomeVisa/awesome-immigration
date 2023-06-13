@@ -6,11 +6,14 @@
 
 - Intro: For young adults who want an extended holiday and to work here to fund it.
 - Length of Stay: 12 months, and possible extende to 36 months
+- Age Limit: 18 to 30, but 18 to 35 in a select few countries.
+
 
 #### [Subclass 462 Work and Holiday Visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)
 
 - Intro: For young adults who want an extended holiday and to work here to fund it.
 - Length of Stay: 12 months, and possible extende to 36 months
+- Age Limit: 18 to 30
 
 ### New Zealand 
 
@@ -18,18 +21,22 @@
 
 - Intro: New Zealand has working holiday scheme agreements with many countries, allowing you to work in and explore our great country. Every year hundreds of young people apply for New Zealand working holiday visas, and spend a year or two working in New Zealand.
 - Length of Stay: 12 months
+- Age Limit: 18 to 30, but 18 to 35 in a select few countries.
 
 ### Singapore
 
 #### [Work Holiday Pass (under Work Holiday Programme)](https://www.mom.gov.sg/passes-and-permits/work-holiday-programme)
 
-- Intro: The Work Holiday Programme allows eligible students and young graduates to work and holiday in Singapore for 6 months.
+- Intro: The Work Holiday Programme allows eligible students and young graduates to work and holiday in Singapore for 6 months. You are an undergraduate or graduate of a university in Australia, France, Germany, Hong Kong, Japan, Netherlands, New Zealand, Switzerland, United Kingdom or United States.
+Your university is recognised by the government of the respective ten countries or regions.
 - Length of Stay: 6 months
+- Age Limit: 18 to 25
 
 #### [Work Holiday Pass (under Work and Holiday Visa Programme)](https://www.mom.gov.sg/passes-and-permits/work-and-holiday-visa-programme)
 
 - Intro: The Work and Holiday Visa Programme allows eligible Australian students and graduates to work and holiday in Singapore for 12 months.
 - Length of Stay: 12 months
+- Age Limit: 18 to 30
 
 ### South Korea
 
@@ -37,3 +44,4 @@
 
 - Intro: The purpose of the Working Holiday Programme in Korea is to allow you to have an extended holiday while enjoying short-term work in Korea.
 - Length of Stay: 12 months
+- Age Limit: 18-30 years old (18 and 30 inclusive)
