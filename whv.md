@@ -30,3 +30,10 @@
 
 - Intro: The Work and Holiday Visa Programme allows eligible Australian students and graduates to work and holiday in Singapore for 12 months.
 - Length of Stay: 12 months
+
+### South Korea
+
+#### [Working Holiday in Korea](https://overseas.mofa.go.kr/au-sydney-en/wpge/m_2371/contents.do)
+
+- Intro: The purpose of the Working Holiday Programme in Korea is to allow you to have an extended holiday while enjoying short-term work in Korea.
+- Length of Stay: 12 months
