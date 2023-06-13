@@ -45,3 +45,12 @@ Your university is recognised by the government of the respective ten countries 
 - Intro: The purpose of the Working Holiday Programme in Korea is to allow you to have an extended holiday while enjoying short-term work in Korea.
 - Length of Stay: 12 months
 - Age Limit: 18-30 years old (18 and 30 inclusive)
+
+
+### United Kindom
+
+#### [Youth Mobility Scheme visa](https://www.gov.uk/youth-mobility)
+
+- Intro: This visa has replaced the Youth Mobility Scheme visa (T5).
+- Length of Stay: 24 months
+- Age Limit: 18 to 30, but 18 to 35 if you are from New Zealand.
