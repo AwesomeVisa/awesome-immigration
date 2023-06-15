@@ -14,7 +14,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Post Study Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
 
-- [Job Seeker Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker)
+- [Job Seeker Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md)
 
 - [Entrepreneur Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
 
