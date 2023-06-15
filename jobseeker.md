@@ -29,6 +29,13 @@
 - Intro: The TTPS seeks to attract top talents with rich work experience and good academic qualifications from all over the world to explore opportunities in Hong Kong. These top talents include high-income talents and graduates from the world’s top universities.
 - Length of Stay: 24 months
 
+### Japan
+
+#### [J-Find](https://www.moj.go.jp/isa/applications/status/designatedactivities51.html)
+
+- Intro: From April 2023, the J-Find System for Human Resources to Create the Future (J-Find) will be introduced, and those who have graduated from excellent overseas universities, etc. will be able to apply for the status of residence "Specified Activities” (future creators) will be granted, and you will be able to stay in Japan for up to two years.
+- Length of Stay: 24 months
+
 ### Netherland
 
 #### [Residence permit for orientation year](https://ind.nl/en/residence-permits/work/residence-permit-for-orientation-year)
