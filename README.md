@@ -91,11 +91,21 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Hong Kong
 
+- #### [Admission Scheme for Mainland Talents and Professionals (ASMTP)](https://www.immd.gov.hk/eng/faq/admission-scheme-mainland-talents-professionals.html)
+
+- Intro: The objective of the Scheme is to attract qualified Mainland talents and professionals to work in the HKSAR in order to meet local manpower needs and enhance the HKSAR's competitiveness in the globalised market. The Mainland talents and professionals must possess special skills and knowledge or experience of value to and not readily available or in shortage locally. Admitted talents and professionals must be able to contribute to the operation of the firms and sectors concerned with a view to facilitating economic development in the HKSAR.po n
+- Length of Stay: 2 years
+
 #### [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html)
 
 - Intro: It seeks to attract( highly skilled or talented persons to settle in Hong Kong in order to enhance Hong Kong's economic competitiveness.
 - [Point Calculator](https://www.immd.gov.hk/eng/services/visas/points-based-tests.html)
 - Minimum Points: 80
+
+- #### [Technology Talent Admission Scheme (TechTAS)](https://www.immd.gov.hk/eng/services/visas/TECHTAS.html)
+
+- Intro: TechTAS provides a fast-track arrangement for eligible companies to admit non-local technology talent to undertake research and development (R&D) work for them in the HKSAR. Eligible companies would first have to apply for a quota. A company allotted with a quota by the Innovation and Technology Commission (ITC) can accordingly sponsor an eligible person to apply for an employment visa/entry permit within the 24-month quota validity period.
+- Length of Stay: 2 years
 
 ### Japan
 
