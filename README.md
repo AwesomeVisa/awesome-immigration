@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-__This list is built to provide convenience for those who aim to immigrate to other countries. All information is extracted from the official immigration sites of the following countries.__
+__This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 53 visas in y categories. All information is extracted from the official immigration sites of the following countries.__
 
 1. If you find any inaccurate information, please add a pull request.
 
@@ -10,19 +10,23 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ## Table of Contents
 
-- [Skilled Migrant Visas](#skilled-migrant-visa)
+- [Skilled Migrant Visas (11)](#skilled-migrant-visa) 
 
-- [Post Study Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
+- [Post Study Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
 
-- [Job Seeker Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md)
+- [Job Seeker Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md)
 
-- [Entrepreneur Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
+- [Entrepreneur Visas (8)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
 
 - [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
 
 - [Certified Immigrant Advisors](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md)
 
-- [Wokring Holiday Visa](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+- [Wokring Holiday Visa (9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+
+- [Self-employement Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
+
+- [Retirement Visa (4)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/retirement.md)
 
 ## Skilled Migrant Visas
 
