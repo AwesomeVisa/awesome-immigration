@@ -2,7 +2,7 @@
 
 ### Malaysia
 
-[My Second Home Programme (Mm2h)](https://www.malaysia.gov.my/portal/content/15167)
+#### [My Second Home Programme (Mm2h)](https://www.malaysia.gov.my/portal/content/15167)
 
 - Intro: This visa is promoted by the government of malaysia to allow foreigners who fulfill certain criteria, to stay in malaysia for as long as possible on a multiple-entry social visit pass.
 - Length of Stay: 10 years and renewable
@@ -12,13 +12,13 @@
 
 ### Portugal
 
-[D7 - Fixed Residence (Retirement, Religious purpose or Individual Revenues](https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa#fixed-residency)
+#### [D7 - Fixed Residence (Retirement, Religious purpose or Individual Revenues](https://vistos.mne.gov.pt/en/national-visas/general-information/type-of-visa#fixed-residency)
 
 - Intro: Residency visas allow two entries and is valid for a period of 4 months. During that time, the holder of a residency visa is required to request a residency permit with the Immigration and Border Services (SEF).
 
 ### Thailand
 
-[Non – Immigrant Visa “O - X” (Long Stay 10 years)](https://consular.mfa.go.th/th/content/80938-non-–-immigrant-visa-“o-x”-(long-stay-10-years))
+#### [Non – Immigrant Visa “O - X” (Long Stay 10 years)](https://consular.mfa.go.th/th/content/80938-non-–-immigrant-visa-“o-x”-(long-stay-10-years))
 
 - Intro: The purpose of this type of visa is to promote long stay for foreign traveler to Thailand.
 - Length of Stay: 10 years
@@ -28,7 +28,7 @@
 
 ### UAE
 
-[Retirement visa for UAE residents](https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visa/retirement-visa-for-uae-residents)
+#### [Retirement visa for UAE residents](https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visa/retirement-visa-for-uae-residents)
 
 - Intro: The new facilities are aimed at providing long-term residency options and the right environment for retirees wishing to reside in the state for prosperity and investment through a stable and high-quality financial and healthy system.
 - Length of Stay: 5 years and renewable
