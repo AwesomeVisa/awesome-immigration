@@ -10,7 +10,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ## Table of Contents
 
-- [Skilled Migrant Visas (11)](#skilled-migrant-visa) 
+- [Skilled Migrant Visas (13)](#skilled-migrant-visa) 
 
 - [Post Study Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
 
