@@ -10,23 +10,33 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ## Table of Contents
 
-- [Skilled Migrant Visas (13)](#skilled-migrant-visa) 
-
-- [Post Study Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
-
-- [Job Seeker Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md)
+### Visas
 
 - [Entrepreneur Visas (8)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
 
-- [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
+- [Job Seeker Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md)
 
-- [Certified Immigrant Advisors](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md)
+- [Post Study Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
 
-- [Working Holiday Visa (9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+- [Retirement Visa (4)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/retirement.md)
 
 - [Self-employment Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
 
-- [Retirement Visa (4)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/retirement.md)
+- [Skilled Migrant Visas (12)](#skilled-migrant-visa) 
+
+- [Working Holiday Visa (9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+
+### PR and Citizenship
+
+- [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
+
+- [Permanent Residency (10)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/PR.md)
+
+### Misc
+
+- [Certified Immigrant Advisors](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md)
+
+---
 
 ## Skilled Migrant Visas
 
@@ -228,10 +238,6 @@ __This list is built to provide convenience for those who aim to immigrate to ot
     2. arts and culture
     3. digital technology
 - Length of Stay: 5 years at a time, there’s no limit to how long you can stay in the UK in total, but you will need to renew (‘extend’) your visa when it expires. Each extension can last from 1 to 5 years - you choose how long you want the extension to be.
-
-#### [Indefinite Leave to Remain](https://www.gov.uk/indefinite-leave-to-remain)
-
-- Intro: Indefinite leave to remain is how you settle in the UK. It’s also called ‘settlement’. It gives you the right to live, work and study here for as long as you like, and apply for benefits if you’re eligible. You can use it to apply for British citizenship. You must usually have lived and worked in the UK for 5 years. If you have a tier 1 visa, it can be 2 or 3 years. If you have an Innovator Founder or Global Talent visa, it can be 3 years.
 
 #### [Scale-up Worker visa](https://www.gov.uk/scale-up-worker-visa/your-job)
 
