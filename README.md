@@ -221,6 +221,18 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 - [Point Document](https://www.gov.uk/government/publications/points-based-system-tier-2)
 - Minimum Points: 70
 
+#### [Global Talent visa](https://www.gov.uk/global-talent)
+
+- Intro: You can apply for a Global Talent visa to work in the UK if you’re a leader or potential leader in one of the following fields:
+    1. academia or research
+    2. arts and culture
+    3. digital technology
+- Length of Stay: 5 years at a time, there’s no limit to how long you can stay in the UK in total, but you will need to renew (‘extend’) your visa when it expires. Each extension can last from 1 to 5 years - you choose how long you want the extension to be.
+
+#### [Indefinite Leave to Remain](https://www.gov.uk/indefinite-leave-to-remain)
+
+- Intro: Indefinite leave to remain is how you settle in the UK. It’s also called ‘settlement’. It gives you the right to live, work and study here for as long as you like, and apply for benefits if you’re eligible. You can use it to apply for British citizenship. You must usually have lived and worked in the UK for 5 years. If you have a tier 1 visa, it can be 2 or 3 years. If you have an Innovator Founder or Global Talent visa, it can be 3 years.
+
 #### [Scale-up Worker visa](https://www.gov.uk/scale-up-worker-visa/your-job)
 
 - Intro: A Scale-up Worker visa allows you to come to the UK to do an eligible job for a fast-growing UK business (sometimes called a ‘scale-up business’).
