@@ -22,9 +22,9 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Certified Immigrant Advisors](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md)
 
-- [Wokring Holiday Visa (9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+- [Working Holiday Visa (9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
 
-- [Self-employement Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
+- [Self-employment Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
 
 - [Retirement Visa (4)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/retirement.md)
 
