@@ -22,7 +22,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Self-employment Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
 
-- [Skilled Migrant Visas (12)](#skilled-migrant-visa) 
+- [Skilled Migrant Visas (16-31)](#skilled-migrant-visa) 
 
 - [Working Holiday Visa (9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
 
