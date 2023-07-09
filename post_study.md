@@ -2,11 +2,6 @@
 
 ### Australia
 
-#### [Work and Holiday (462)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/work-holiday-462)
-
-- Intro: For young adults who want an extended holiday and to work here to fund it.
-- Length of Stay: 1 year
-
 #### [Skilled—Recognised Graduate visa](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-recognition-graduate-476)
 
 - Intro: This visa  allows recent engineering graduates to live, work or study in Australia for up to 18 months. You must have completed a degree or higher qualification from a specified institution within the past 2 years, and be under 31 years of age.
@@ -29,12 +24,6 @@
     3. Non work biding: One only needs to have a employer sponsor at the time of application; no requirements of maintaining employment status till the end of visa valid period.
     4. Dependent friendly: mainland China expacts can support parent's dependent visa in the valid period of IANG. Cautious: once a *mainland expat* changes to HK permanent residence (passport holder) status, she can no longer support parent's dependent via.
 
-### Ireland
-
-#### [Working holiday visa](https://www.dfa.ie/travel/visas/working-holiday-visas/)
-
-- Intro: Ireland’s working holiday agreements with other governments allow young people of both countries to fund an extended holiday through temporary work.
-
 ### New Zealand
 
 #### [Post-study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa) 
@@ -53,18 +42,3 @@
 #### [Work experience as trainee or apprentice](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Work-experience-as-trainee-or-apprentice.aspx)
 
 - Intro: You wish to gain work experience in the Netherlands as a trainee (for study purposes) or apprentice (for work purposes). You need a residence permit for this.
-
-### Norway
-
-#### [Job seekers](https://www.udi.no/en/want-to-apply/work-immigration/job-seekers)
-
-- Intro: You must normally have received a job offer in Norway before you can apply for a residence permit for work purposes. If you are a skilled worker, you may in some exceptional cases get a residence permit to stay in Norway while you look for work.
-- Length of Stay: 1 year
-
-### UK
-
-#### [High Potential Individual visa](https://www.gov.uk/government/publications/high-potential-individual-visa-global-universities-list)
-
-- Intro: The High Potential Individual (HPI) route is a short-term work visa for individuals at an early career stage, who have shown they have potential to benefit the UK workforce. From 30 May 2022, you can apply for the HPI route if you have graduated from an eligible international university in the 5 years immediately before your application. You don’t need to have a job offer to apply.
-
-- Length of Stay: a 2-year work visa (3-year for those with a PhD)
