@@ -24,13 +24,6 @@
     3. Non work biding: One only needs to have a employer sponsor at the time of application; no requirements of maintaining employment status till the end of visa valid period.
     4. Dependent friendly: mainland China expacts can support parent's dependent visa in the valid period of IANG. Cautious: once a *mainland expat* changes to HK permanent residence (passport holder) status, she can no longer support parent's dependent via.
 
-### New Zealand
-
-#### [Post-study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa) 
-
-- Intro: If you have acceptable qualifications(s) that you completed in New Zealand, you can apply for a visa to work here. Depending on your qualification and where you studied, you can work for any employer for between 1 and 3 years, and do almost any work.
-- Length of Stay: 1, 2 or 3 years
-
 ### Netherland
 
 #### [Orientation visa for highly educated persons](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx) 
@@ -42,3 +35,10 @@
 #### [Work experience as trainee or apprentice](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Work-experience-as-trainee-or-apprentice.aspx)
 
 - Intro: You wish to gain work experience in the Netherlands as a trainee (for study purposes) or apprentice (for work purposes). You need a residence permit for this.
+
+### New Zealand
+
+#### [Post-study work visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/post-study-work-visa) 
+
+- Intro: If you have acceptable qualifications(s) that you completed in New Zealand, you can apply for a visa to work here. Depending on your qualification and where you studied, you can work for any employer for between 1 and 3 years, and do almost any work.
+- Length of Stay: 1, 2 or 3 years
