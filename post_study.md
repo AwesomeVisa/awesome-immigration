@@ -42,11 +42,6 @@
 - Intro: If you have acceptable qualifications(s) that you completed in New Zealand, you can apply for a visa to work here. Depending on your qualification and where you studied, you can work for any employer for between 1 and 3 years, and do almost any work.
 - Length of Stay: 1, 2 or 3 years
 
-#### [Working Holiday Visas](https://www.immigration.govt.nz/new-zealand-visas/options/work/thinking-about-coming-to-new-zealand-to-work/working-holiday-visa) 
-
-- Intro: Every year hundreds of young people apply for New Zealand working holiday visas, and spend a year or two working in New Zealand.
-- Length of Stay: 12 months, or 23 months if you are from the UK or Canada
-
 ### Netherland
 
 #### [Orientation visa for highly educated persons](https://ind.nl/en/work/working_in_the_Netherlands/Pages/Looking-for-a-job-after-study-promotion-or-research.aspx) 
