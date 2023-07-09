@@ -34,17 +34,17 @@
 
 - Intro: From April 2023, the Special Highly Skilled Foreign Professional System (J-Skip) will be introduced, and apart from the point system for highly skilled professionals so far, if you have a certain level of academic background or work experience and annual income above a certain level, you will be able to stay as a "highly skilled professional". In the case of status of residence “Highly Skilled Professional No. 2” (Persons with a master's degree or higher and an annual income of 20 million yen or more), period of stay will be indefinite.
 
-### Norway
-
-#### [Permanent residency](https://www.udi.no/en/want-to-apply/permanent-residence/)
-
-- Intro: With a permanent residence permit or permanent right of residency, you can reside and work in Norway indefinitely. You will also be granted extra protection against expulsion. If you have lived in Norway for three years or more, or you are a child under the age of one who is born in Norway, you may meet the requirements for a permanent residence permit.
-
 ### New Zealand
 
 #### [Permanent Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/visas/visa/permanent-resident-visa)
 
 - Intro: You can apply for this visa if you have had a residence visa for more than 2 years. This visa allows you to travel in and out of New Zealand.
+
+### Norway
+
+#### [Permanent residency](https://www.udi.no/en/want-to-apply/permanent-residence/)
+
+- Intro: With a permanent residence permit or permanent right of residency, you can reside and work in Norway indefinitely. You will also be granted extra protection against expulsion. If you have lived in Norway for three years or more, or you are a child under the age of one who is born in Norway, you may meet the requirements for a permanent residence permit.
 
 ### Singapore
 
