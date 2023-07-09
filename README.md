@@ -2,6 +2,8 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+Built with [AwesomeVisa](https://awesomevisa.com)
+
 __This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 53 visas in 7 categories. All information is extracted from the official immigration sites of the following countries.__
 
 1. If you find any inaccurate information, please add a pull request.
@@ -12,29 +14,29 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Visas
 
-- [Entrepreneur Visas (8)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
+- [Entrepreneur Visas (9-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md) 🇦🇺🇨🇦🇫🇮🇯🇵🇳🇱🇳🇿🇸🇬🇦🇪🇬🇧
 
-- [Job Seeker Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md)
+- [Job Seeker Visas (9-10)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md) 🇨🇿🇨🇦🇩🇪🇭🇰🇯🇵🇳🇱🇸🇬🇸🇪🇬🇧
 
-- [Post Study Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
+- [Post Study Visas (5-6)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md) 🇦🇺🇨🇦🇭🇰🇳🇱🇳🇿
 
-- [Retirement Visa (4)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/retirement.md)
+- [Retirement Visa (4-4)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/retirement.md) 🇲🇾🇵🇹🇹🇭🇦🇪
 
-- [Self-employment Visas (7)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
+- [Self-employment Visas (8-8)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md) 🇧🇪🇫🇮🇫🇷🇩🇪🇮🇹🇳🇱🇳🇴🇦🇪
 
-- [Skilled Migrant Visas (16-31)](#skilled-migrant-visa) 
+- [Skilled Migrant Visas (16-31)](#skilled-migrant-visa) 🇦🇺🇨🇦🇩🇰🇫🇮🇩🇪🇭🇰🇯🇵🇮🇪🇳🇱🇳🇿🇳🇴🇸🇬🇸🇪🇦🇪🇬🇧🇺🇸
 
-- [Working Holiday Visa (9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+- [Working Holiday Visa (7-9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md) 🇦🇺🇨🇦🇯🇵🇳🇿🇸🇬🇰🇷🇬🇧
 
 ### PR and Citizenship
 
 - [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
 
-- [Permanent Residency (10)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/PR.md)
+- [Permanent Residency (9-10)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/PR.md) 🇦🇺🇨🇦🇫🇮🇭🇰🇯🇵🇳🇿🇳🇴🇸🇬🇬🇧
 
 ### Misc
 
-- [Certified Immigrant Advisors](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md)
+- [Certified Immigrant Advisors (5-5)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md) 🇦🇺🇨🇦🇳🇿🇬🇧🇺🇸
 
 ---
 
