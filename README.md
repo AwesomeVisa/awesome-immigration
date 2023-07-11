@@ -40,3 +40,82 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ---
 
+## Immigration Checklist
+
+### Before Applying for A Visa
+
+1. Decide whether you are suitable for immigrating
+
+   1. Age
+   2. Degree and major
+   3. Current occupation, salary and year of experience
+   4. Language ability
+   5. Other conditions as required by a specific visa
+
+2. Decide which country you would like to immigrate
+
+   1. Final destination country
+   2. As a springboard 
+
+3. Decide which visa to apply for
+
+   1. [Skilled Migrant Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/skilled.md)
+   2. [Entrepreneur Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
+   3. [Job Seeker Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md)
+   4. [Post Study Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
+   5. [Self-employment Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
+   6. [Working Holiday Visa](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+
+4. Prepare the language test if needed
+
+
+### Applying for A Visa
+
+0. Prepare the application mentally
+
+1. Collect visa application information
+
+2. Evaluate the success rate of visa application based on your conditions
+
+3. Prepare relevant documents
+
+   1. Passport
+   2. Degree attestation
+   3. Birth certificate
+   4. Job certificate
+   5. Bank statement
+   6. Other documents as required by a specific visa
+
+5. Find a suitable job if needed
+
+6. Prepare fund if needed
+   
+   1. Prepare fund as requied by the bank statement
+   2. Apply for a Visa / Master credit card if needed
+
+### After Getting Visa
+
+1. Collect visa 
+
+2. Get air ticket
+
+3. Prepare convertors and sockets
+
+4. Prepare fund if needed
+   
+   1. Buy foreign currency if needed
+   2. Apply for travel cheque if possible
+  
+5. Prepare for moving out
+
+### After Landing
+
+1. Register at the immigration authority
+
+2. Find a fixed place to stay
+
+3. Register a bank account with the above address
+
+4. Register a mobile phone with the above address
+
+5. Transfer fund to the above bank account
