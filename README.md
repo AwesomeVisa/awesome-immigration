@@ -143,7 +143,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 5. Find a suitable job if needed
 
    1. Prepare a resume (See [here](https://letters.acacess.com/exodus-06/))
-   2. Locate oversea job oppotunities ([Using Indeed](https://letters.acacess.com/exodus-02/), and [Glassdoor, Level.fyi, Wellfound and RemoteOK](https://letters.acacess.com/exodus-2-14/))
+   2. Locate oversea job opportunities ([Using Indeed](https://letters.acacess.com/exodus-02/), and [Glassdoor, Level.fyi, Wellfound and RemoteOK](https://letters.acacess.com/exodus-2-14/))
    3. Track job application status ([Using Notion](https://letters.acacess.com/exodus-2-8/))
    4. Evaluate a potential company ([Using LinkedIn](https://letters.acacess.com/exodus-2-4/))
    5. Prepare for job interviews (See [here](https://letters.acacess.com/exodus-09/))
