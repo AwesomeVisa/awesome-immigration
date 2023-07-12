@@ -117,14 +117,14 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    4. Evaluate a potential company (See [here](https://letters.acacess.com/exodus-2-4/))
    5. Prepare for job interviews (See [here](https://letters.acacess.com/exodus-09/))
    6. Negociate the package
-      
-     0. visa sponsorship
-     1. base salary
-     2. equity
-     3. bonus
-     4. scope
-     5. budget
-     6. relocation fee
+
+      0. visa sponsorship
+      1. base salary
+      2. equity
+      3. bonus
+      4. scope
+      5. budget
+      6. relocation fee
 
 5. Prepare fund if needed
    
