@@ -81,9 +81,34 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 5. Decide how much time
 
    1. How much you needed for immigration (See [here](https://letters.acacess.com/exodus-2-19/))
-   2. How to allocate time for each step (See [here](https://letters.acacess.com/exodus-2-17/))
+      1. Time for preparing visa application
+      2. Time for applying for visa
+      3. Time for applying for PR
+      4. Time for applying for citizenship 
+   3. How to allocate time for each step (See [here](https://letters.acacess.com/exodus-2-17/))
+      1. Allocate time for language test
+      2. Allocate time for job hunting
+      3. Allocate time for document preparation
+      4. Allocate time for visa application
+     
+6. Decide how much money
 
-6. Prepare the language test if needed (See [here](https://letters.acacess.com/exodus-2-10/))
+    1. How much fund for qualifying for a specific visa
+    2. How much salary for qualifying for a specific visa
+    3. How much fund needed for applying for a visa
+    4. How much fund needed for moving to a new place
+
+8. Prepare the language as required (See [here](https://letters.acacess.com/exodus-2-10/))
+
+   1. Check whether language ability is needed to get a visa
+   2. Decide which language test to take
+   3. Prepare for listening test
+   4. Prepare for writing test
+   5. Prepare for speaking test
+   6. Prepare for reading test
+   7. Prepare for vocabulary
+   8. Prepare for grammar
+   9. Prepare for real life
 
 ### Applying for A Visa
 
@@ -118,13 +143,13 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    5. Prepare for job interviews (See [here](https://letters.acacess.com/exodus-09/))
    6. Negociate the package
 
-      0. visa sponsorship
-      1. base salary
-      2. equity
-      3. bonus
-      4. scope
-      5. budget
-      6. relocation fee
+      1. visa sponsorship
+      2. base salary
+      3. equity
+      4. bonus
+      5. job scope
+      6. budget
+      7. relocation fee
 
 5. Prepare fund if needed
    
@@ -135,7 +160,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 1. Collect visa 
 
-2. Get air ticket
+2. Get air tickets
 
 3. Prepare convertors and sockets
 
