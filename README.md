@@ -46,7 +46,16 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 0. Before any decision being made, you can start doing [these](https://letters.acacess.com/exodus-2-7/)
 
-1. Decide whether immigration is suitable for you
+   1. Learn English
+   2. Learn how to use a search engine
+   3. Learn think independently
+   4. Apply for an international credit card
+   5. Buy foreign currencies
+   6. Keep physical and mental health
+   7. Read this checklist carefully
+   8. Sharpen your job skillset
+
+2. Decide whether immigration is suitable for you
 
    1. Age
    2. Degree and major
@@ -55,12 +64,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    5. Fund
    6. Other conditions as required by a specific visa
 
-2. Decide which country to immigrate
+3. Decide which country to immigrate
 
    1. Final destination country
    2. As a springboard 
 
-3. Decide which visa to apply for
+4. Decide which visa to apply for
 
    1. [Skilled Migrant Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/skilled.md)
    2. [Entrepreneur Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md)
@@ -69,12 +78,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    5. [Self-employment Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
    6. [Working Holiday Visa](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
   
-4. Decide how much time
+5. Decide how much time
 
    1. How much you needed for immigration (See [here](https://letters.acacess.com/exodus-2-19/))
    2. How to allocate time for each step (See [here](https://letters.acacess.com/exodus-2-17/))
 
-5. Prepare the language test if needed (See [here](https://letters.acacess.com/exodus-2-10/))
+6. Prepare the language test if needed (See [here](https://letters.acacess.com/exodus-2-10/))
 
 ### Applying for A Visa
 
@@ -108,6 +117,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    4. Evaluate a potential company (See [here](https://letters.acacess.com/exodus-2-4/))
    5. Prepare for job interviews (See [here](https://letters.acacess.com/exodus-09/))
    6. Negociate the package
+      
      0. visa sponsorship
      1. base salary
      2. equity
