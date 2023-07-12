@@ -40,7 +40,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ---
 
-## Immigration Checklist
+## Awesome Immigration Checklist
 
 ### Before Applying for A Visa
 
