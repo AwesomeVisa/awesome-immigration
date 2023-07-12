@@ -44,7 +44,9 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Before Applying for A Visa
 
-1. Decide whether you are suitable for immigrating
+0. Before any decision beind made, you can start doing [these](https://letters.acacess.com/exodus-2-7/)
+
+1. Decide whether you are suitable for immigrating 
 
    1. Age
    2. Degree and major
@@ -65,21 +67,26 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    4. [Post Study Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md)
    5. [Self-employment Visas](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md)
    6. [Working Holiday Visa](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md)
+  
+4. Decide how much time
 
-4. Prepare the language test if needed
+   1. how much you needed for the above visa (See [here](https://letters.acacess.com/exodus-2-19/))
+   2. how to allocate time for each step (See [here](https://letters.acacess.com/exodus-2-17/))
+
+5. Prepare the language test if needed (See [here](https://letters.acacess.com/exodus-2-10/))
 
 ### Applying for A Visa
 
-0. Prepare the application mentally (See 1
+0. Prepare the application mentally (See [here](https://letters.acacess.com/exodus-2-22/), [here](https://letters.acacess.com/exodus-2-16/), [here](https://letters.acacess.com/exodus-2-11/), and [here](https://letters.acacess.com/exodus-2-9/))
 
-1. Collect visa application information
+1. Collect visa application information (See [here](https://letters.acacess.com/exodus-2-1/), and [here](https://letters.acacess.com/exodus-03/))
 
 2. Evaluate the success rate of visa application based on your conditions
 
 3. Prepare relevant documents (See [here](https://letters.acacess.com/exodus-2-21/))
 
    1. Passport
-   2. Degree attestation
+   2. Degree attestation (See [here](https://letters.acacess.com/exodus-2-23/))
    3. Birth certificate
    4. Job certificate
    5. Bank statement
@@ -88,10 +95,10 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 4. Find a suitable job if needed
 
    1. Prepare a resume (See [here](https://letters.acacess.com/exodus-06/))
-   2. Locate oversea job oppotunities (See [here](https://letters.acacess.com/exodus-02/), [here](https://letters.acacess.com/exodus-2-14/)
+   2. Locate oversea job oppotunities (See [Indeed](https://letters.acacess.com/exodus-02/), and [Glassdoor, Level.fyi, Wellfound and RemoteOK](https://letters.acacess.com/exodus-2-14/))
    3. Track job application status (See [here](https://letters.acacess.com/exodus-2-8/))
    4. Evaluate the potential company (See [here](https://letters.acacess.com/exodus-2-4/))
-   5. Prepare for job interviews (See [here]([url](https://letters.acacess.com/exodus-09/))
+   5. Prepare for job interviews (See [here](https://letters.acacess.com/exodus-09/))
 
 5. Prepare fund if needed
    
@@ -108,10 +115,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 4. Prepare fund if needed
    
-   1. Buy foreign currency if needed
-   2. Apply for travel cheque if possible
+   1. Decide how much fund is needed (See [here](https://letters.acacess.com/exodus-2-3/))
+   2. Buy foreign currency if needed
+   3. Apply for travel cheque if possible
   
-5. Prepare for moving out
+5. Prepare for moving out (See [here](https://letters.acacess.com/exodus-2-25/))
 
 ### After Landing
 
