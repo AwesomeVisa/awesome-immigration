@@ -68,16 +68,15 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 4. Prepare the language test if needed
 
-
 ### Applying for A Visa
 
-0. Prepare the application mentally
+0. Prepare the application mentally (See 1
 
 1. Collect visa application information
 
 2. Evaluate the success rate of visa application based on your conditions
 
-3. Prepare relevant documents
+3. Prepare relevant documents (See [here](https://letters.acacess.com/exodus-2-21/))
 
    1. Passport
    2. Degree attestation
@@ -86,9 +85,15 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    5. Bank statement
    6. Other documents as required by a specific visa
 
-5. Find a suitable job if needed
+4. Find a suitable job if needed
 
-6. Prepare fund if needed
+   1. Prepare a resume (See [here](https://letters.acacess.com/exodus-06/))
+   2. Locate oversea job oppotunities (See [here](https://letters.acacess.com/exodus-02/), [here](https://letters.acacess.com/exodus-2-14/)
+   3. Track job application status (See [here](https://letters.acacess.com/exodus-2-8/))
+   4. Evaluate the potential company (See [here](https://letters.acacess.com/exodus-2-4/))
+   5. Prepare for job interviews (See [here]([url](https://letters.acacess.com/exodus-09/))
+
+5. Prepare fund if needed
    
    1. Prepare fund as requied by the bank statement
    2. Apply for a Visa / Master credit card if needed
