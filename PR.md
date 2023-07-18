@@ -17,6 +17,7 @@
 #### [Apply for a permanent residence permit](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Permanent-residence-permit/Permanent-residence)
 
 - Intro: You would like to apply for a permanent residence permit. You have a temporary residence permit in Denmark for 8 years or more (4 years in certain situations). You need to meet certain requirements.
+- Time to get PR: 8 years or 4 years
 
 ### Finland
 
@@ -29,6 +30,14 @@
 #### [Right of Abode in Hong Kong](https://www.immd.gov.hk/eng/services/roa/geninfor.html)
 
 - Intro: A person is eligible for right of abode in the HKSAR if he/she: 1. belongs to the six categories as stipulated under Paragraph 2 of Schedule 1 to the Immigration Ordinance; or 2. fulfills the transitional requirements under Paragraph 6 of Schedule 1 to the Immigration Ordinance. 3. Further information on eligibility for the right of abode
+- Time to get PR: 7 years
+
+### Germany
+
+#### [The settlement permit](https://www.bamf.de/EN/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Migrathek/Niederlassen/niederlassen-node.html)
+
+- Intro: If you have held a residence title in Germany for at least five years without interruption, you may be eligible for an open-ended residence permit, subject to certain conditions. An unlimited residence title may also be issued prior to expiry of the five-year period in certain cases.
+- Time to get PR: 5 years
 
 ### Japan
 
@@ -39,18 +48,21 @@
 #### [Special Highly Talented Personnel System (J-Skip)](https://www.moj.go.jp/isa/publications/materials/nyuukokukanri01_00009.html?hl=en)
 
 - Intro: From April 2023, the Special Highly Skilled Foreign Professional System (J-Skip) will be introduced, and apart from the point system for highly skilled professionals so far, if you have a certain level of academic background or work experience and annual income above a certain level, you will be able to stay as a "highly skilled professional". In the case of status of residence “Highly Skilled Professional No. 2” (Persons with a master's degree or higher and an annual income of 20 million yen or more), period of stay will be indefinite.
+- Time to get PR: 1 year
 
 ### New Zealand
 
 #### [Permanent Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/visas/visa/permanent-resident-visa)
 
 - Intro: You can apply for this visa if you have had a residence visa for more than 2 years. This visa allows you to travel in and out of New Zealand.
+- Time to get PR: 2 years
 
 ### Norway
 
 #### [Permanent residency](https://www.udi.no/en/want-to-apply/permanent-residence/)
 
 - Intro: With a permanent residence permit or permanent right of residency, you can reside and work in Norway indefinitely. You will also be granted extra protection against expulsion. If you have lived in Norway for three years or more, or you are a child under the age of one who is born in Norway, you may meet the requirements for a permanent residence permit.
+- Time to get PR: 5 years
 
 ### Singapore
 
@@ -63,3 +75,4 @@
 #### [Indefinite Leave to Remain](https://www.gov.uk/indefinite-leave-to-remain)
 
 - Intro: Indefinite leave to remain is how you settle in the UK. It’s also called ‘settlement’. It gives you the right to live, work and study here for as long as you like, and apply for benefits if you’re eligible. You can use it to apply for British citizenship. You must usually have lived and worked in the UK for 5 years. If you have a tier 1 visa, it can be 2 or 3 years. If you have an Innovator Founder or Global Talent visa, it can be 3 years.
+- Time to get PR: 5 years or 3 years
