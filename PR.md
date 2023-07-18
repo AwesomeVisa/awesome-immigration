@@ -12,6 +12,12 @@
 
 - Intro: A permanent resident is someone who has been given permanent resident status by immigrating to Canada, but is not a Canadian citizen. Permanent residents are citizens of other countries.
 
+### Denmark
+
+#### [Apply for a permanent residence permit](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Permanent-residence-permit/Permanent-residence)
+
+- Intro: You would like to apply for a permanent residence permit. You have a temporary residence permit in Denmark for 8 years or more (4 years in certain situations). You need to meet certain requirements.
+
 ### Finland
 
 #### [Permanent residence permit](https://migri.fi/en/permanent-residence-permit)
