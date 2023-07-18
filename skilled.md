@@ -63,10 +63,12 @@
 #### [Qualified professionals](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work-qualified-professionals/)
 
 - Intro: Highly-qualified foreigners are in particular scientists with special technical knowledge, as well as teaching personnel and scientific personnel in prominent positions.
+- Length of Stay: 4 years
 
 #### [The EU Blue Card](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/eu-blue-card)
 
 - Intro: The EU Blue Card enables third-country nationals who are university graduates or who have a comparable qualification to receive a residence title for the purpose of employment suiting their qualification.
+- Length of Stay: 4 years
 
 ### Hong Kong
 
