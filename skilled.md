@@ -70,6 +70,10 @@
 - Intro: The EU Blue Card enables third-country nationals who are university graduates or who have a comparable qualification to receive a residence title for the purpose of employment suiting their qualification.
 - Length of Stay: 4 years
 
+#### [Visa for IT professionals](https://www.make-it-in-germany.com/en/visa-residence/types/it-professionals)
+
+- Intro: Advantageous ways have been paved for IT specialists outside the European Union/EFTA States (so-called “third countries”) to obtain a work visa in Germany. The type of visa you receive depends on your qualifications and your job offer in Germany.  Even if you have neither any formal qualifications nor a university degree, you can still obtain a visa and work as an IT specialist in Germany. Therefore, certain prerequisites must be met.
+
 ### Hong Kong
 
 #### [Admission Scheme for Mainland Talents and Professionals (ASMTP)](https://www.immd.gov.hk/eng/faq/admission-scheme-mainland-talents-professionals.html)
