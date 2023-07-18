@@ -42,9 +42,14 @@
 - Intro: You have been offered a job in Denmark with a salary of DKK 426,985.06 or higher.
 - Length of Stay: 4 years
 
-#### [The Positive List](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Positivlisten)
+#### [The Positive List for People with a Higher Education](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Positive-List-Higher-Education)
 
-- Intro: You have been offered a job included in the list of professions experiencing a shortage of qualified professionals in Denmark.
+- The Positive List is a list of professions experiencing a shortage of qualified professionals in Denmark. If you have been offered a job included in the Positive List, you can apply for a residence and work permit in Denmark based on the Positive List Scheme.
+- Length of Stay: 4 years
+
+#### [The Positive List for Skilled Work](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/The-Positive-Lists/Positive-List-for-skilled-work)
+
+- Intro: The Positive List for Skilled Work is a list of skilled professions experiencing a shortage of qualified professionals in Denmark. If you have been offered a job included in the Positive List for Skilled Work, you can apply for a Danish residence and work permit based on this scheme.
 - Length of Stay: 4 years
 
 ### Finland
