@@ -45,11 +45,6 @@
 
 - Intro: In principle, the applicant must have stayed in Japan continuously for 10 years or more. However, within this period, it is necessary to stay in Japan for more than 5 years with a work status (excluding the status of residence "Technical Intern Training" and "Specified Skilled Worker No. 1") or residence status.
 
-#### [Special Highly Talented Personnel System (J-Skip)](https://www.moj.go.jp/isa/publications/materials/nyuukokukanri01_00009.html?hl=en)
-
-- Intro: From April 2023, the Special Highly Skilled Foreign Professional System (J-Skip) will be introduced, and apart from the point system for highly skilled professionals so far, if you have a certain level of academic background or work experience and annual income above a certain level, you will be able to stay as a "highly skilled professional". In the case of status of residence “Highly Skilled Professional No. 2” (Persons with a master's degree or higher and an annual income of 20 million yen or more), period of stay will be indefinite.
-- Time to get PR: 1 year
-
 ### New Zealand
 
 #### [Permanent Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/visas/visa/permanent-resident-visa)
