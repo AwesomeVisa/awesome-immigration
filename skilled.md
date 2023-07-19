@@ -94,13 +94,17 @@
 
 ### Japan
 
-#### [Advanced academic research activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
+#### [Special Highly Talented Personnel System (J-Skip)](https://www.moj.go.jp/isa/publications/materials/nyuukokukanri01_00009.html?hl=en)
+
+- Intro: From April 2023, the Special Highly Skilled Foreign Professional System (J-Skip) will be introduced, and apart from the point system for highly skilled professionals so far, if you have a certain level of academic background or work experience and annual income above a certain level, you will be able to stay as a "highly skilled professional". In the case of status of residence “Highly Skilled Professional No. 2” (Persons with a master's degree or higher and an annual income of 20 million yen or more), period of stay will be indefinite.
+
+#### [Advanced academic research activities](https://www.moj.go.jp/isa/content/930003140.pdf)
 
 - Intro: Activities of engaging in research, research guidance or education based on a contract entered into with a public or private organization in Japan.
 - Length of Stay: 5 years (maximum)
 - Minimum Points: 70
 
-#### [Advanced specialized/technical activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
+#### [Advanced specialized/technical activities](https://www.moj.go.jp/isa/content/930003140.pdf)
 
 - Intro: Activities of engaging in work requiring specialized knowledge or skills in the field of natural sciences or humanities based on a contract entered into with a public or private organization in Japan.
 - Length of Stay: 5 years (maximum)
