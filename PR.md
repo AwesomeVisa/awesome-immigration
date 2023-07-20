@@ -45,6 +45,13 @@
 
 - Intro: In principle, the applicant must have stayed in Japan continuously for 10 years or more. However, within this period, it is necessary to stay in Japan for more than 5 years with a work status (excluding the status of residence "Technical Intern Training" and "Specified Skilled Worker No. 1") or residence status.
 
+
+### Netherlands
+
+#### [Permanent residence permit](https://ind.nl/en/extend-renew-and-change/permanent-residency/permanent-residence-permit)
+
+- Time to get PR: 5 years
+  
 ### New Zealand
 
 #### [Permanent Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/visas/visa/permanent-resident-visa)
