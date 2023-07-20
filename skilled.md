@@ -112,9 +112,13 @@
 
 ### Ireland
 
-#### [Employment Visa](http://inis.gov.ie/en/INIS/Pages/Employment%20(Permits%20etc.))
+#### [Employment Visa](https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-work-visa-options/applying-for-a-long-stay-employment-visa/employment-visa/)
 
-#### [Employment (Scientific Researcher)](http://www.inis.gov.ie/en/INIS/Pages/Employment%20Scientific%20Researcher)
+- Intro: If you wish to work in Ireland you need to have an Employment Permit which is issued by Department of Enterprise, Trade and Employment (DETE). DETE will shortly introduce a new range of employment permits. The correct visa type for a holder of any type of employment permit issued by DETE is the Employment (permits etc.) visa. You can apply for an Employment (Permits etc.) visa up to 3 months before your date of travel to Ireland.
+
+#### [Employment (Scientific Researcher)](https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-work-visa-options/applying-for-a-long-stay-employment-visa/scientific-researcher/)
+
+- Intro: You can apply for an Employment (Scientific Researcher) visa if you wish to come to Ireland for the purposes of carrying out research under a “hosting agreement”. 
 
 ### Netherland
 
