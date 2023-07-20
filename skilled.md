@@ -122,7 +122,10 @@
 
 ### Netherland
 
-#### [Highly skilled migrant](https://ind.nl/en/work/Pages/Highly-skilled-migrant.aspx)
+#### [Highly skilled migrant](https://ind.nl/en/residence-permits/work/highly-skilled-migrant)
+
+- Intro: You need a residence permit to work in the Netherlands as a highly skilled migrant. Only an employer recognised by the IND can apply for a residence permit for you.
+- Length of Stay: 5 years (maximum)
 
 ### New Zealand
 
