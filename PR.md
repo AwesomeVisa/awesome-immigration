@@ -45,7 +45,6 @@
 
 - Intro: In principle, the applicant must have stayed in Japan continuously for 10 years or more. However, within this period, it is necessary to stay in Japan for more than 5 years with a work status (excluding the status of residence "Technical Intern Training" and "Specified Skilled Worker No. 1") or residence status.
 
-
 ### Netherlands
 
 #### [Permanent residence permit](https://ind.nl/en/extend-renew-and-change/permanent-residency/permanent-residence-permit)
@@ -71,6 +70,13 @@
 #### [Permanent Resident](https://www.ica.gov.sg/reside/PR/)
 
 - Intro: A PR refers to a foreigner who has been granted permanent residence status which allows him/her to reside in Singapore on a permanent basis.  PRs aged 15 years and above will be issued with the Singapore blue Identity Card (IC). A PR is required to have a valid Re-Entry Permit if he/she wishes to travel out and return to Singapore as a PR.
+
+### Sweden
+
+#### [Swedish resi­dence permits for long-term resi­dents of another EU country](https://www.migrationsverket.se/English/Private-individuals/EU-EEA-citizens-and-long-term-residents/Long-term-residents.html)
+
+- Intro: Persons who have lived in an EU country for at least five years with a residence permit may apply for long-term resident status in that country. Persons who are granted long-term resident status receive a special EC/EU residence permit. This gives them certain rights, similar to those of an EU citizen. This makes it easier for them to move to another EU country in order to work, study, start their own business or live on their pension, for example.
+- Time to get PR: 5 years
 
 ### UK
 
