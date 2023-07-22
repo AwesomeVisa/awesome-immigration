@@ -24,6 +24,7 @@
 #### [Permanent residence permit](https://migri.fi/en/permanent-residence-permit)
 
 - Intro: A permanent residence permit is valid until further notice. In other words, its period of validity is not limited. You can get a permanent residence permit if: you have lived in Finland for an uninterrupted period of 4 years with a continuous residence permit (an A permit); and the requirements for issuing a continuous residence permit are still met.
+- Time to get PR: 4 years
 
 ### Hong Kong
 
