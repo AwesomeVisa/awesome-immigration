@@ -32,7 +32,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
 
-- [Permanent Residency (13-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/PR.md) 🇦🇺🇨🇦🇫🇮🇭🇰🇯🇵🇳🇿🇳🇴🇸🇬🇬🇧
+- [Permanent Residency (13-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/PR.md) 🇦🇺🇨🇦🇩🇰🇫🇮🇭🇰🇩🇪🇯🇵🇳🇱🇳🇿🇳🇴🇸🇬🇸🇪🇬🇧
 
 ### Misc
 
