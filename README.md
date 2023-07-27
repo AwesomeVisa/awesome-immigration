@@ -2,13 +2,13 @@
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Built with [AwesomeVisa](https://awesomevisa.com)
+Built by [AwesomeVisa](https://awesomevisa.com)
 
 __This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 53 visas in 7 categories. All information is extracted from the official immigration sites of the following countries.__
 
-1. If you find any inaccurate information, please add a pull request.
+1. If you find any inaccurate information, please [add a pull request](https://github.com/AwesomeVisa/awesome-immigration/pulls).
 
-2. You are welcome to contribute, but do please add information only from the official immigration sites of each country, many thanks!
+2. You are welcome to contribute, but do please include information only from official immigration sites, many thanks!
 
 ## Table of Contents
 
@@ -30,9 +30,9 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### PR and Citizenship
 
-- [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
-
 - [Permanent Residency (13-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/PR.md) 🇦🇺🇨🇦🇩🇰🇫🇮🇭🇰🇩🇪🇯🇵🇳🇱🇳🇿🇳🇴🇸🇬🇸🇪🇬🇧
+
+- [Citizenship](https://github.com/AwesomeVisa/awesome-immigration/blob/master/citizenship.md)
 
 ### Misc
 
