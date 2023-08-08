@@ -50,7 +50,7 @@
 - Intro: The Personalised Employment Pass is for high-earning Employment Pass holders and overseas foreign professionals. It is not tied to an employer and offers greater flexibility than an Employment Pass.
 - Length of Stay: 3 years
 
-#### [Tech.Pass]([https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html))
+#### [Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html)
 
 - Intro: Tech.Pass is a visa that allows established tech entrepreneurs, leaders or technical experts from around the world to come to Singapore to perform frontier and disruptive innovations.
 - Length of Stay: 2 years
