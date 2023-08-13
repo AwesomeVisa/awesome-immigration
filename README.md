@@ -190,4 +190,4 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 5. Transfer fund to the above bank account
 
-6. Onboard the negociated company
+6. Onboard the negotiated company
