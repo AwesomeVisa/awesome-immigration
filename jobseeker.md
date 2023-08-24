@@ -60,7 +60,7 @@
 #### [Residence permit for highly qualified persons to look for work or start a business](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Look-for-work-or-start-a-business.html)
 
 - Intro: The permit may be granted for a minimum of three months and for no more than nine months. During the period that you have this residence permit, your family cannot move to Sweden to live with you.
-- Length of Stay: 9 momths
+- Length of Stay: 9 months
 
 ### UK
 
