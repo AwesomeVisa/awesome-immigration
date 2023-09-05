@@ -24,7 +24,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Self-employment Visas (8-8)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md) 🇧🇪🇫🇮🇫🇷🇩🇪🇮🇹🇳🇱🇳🇴🇦🇪
 
-- [Skilled Migrant Visas (16-34)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/skilled.md) 🇦🇺🇨🇦🇩🇰🇫🇮🇩🇪🇭🇰🇯🇵🇮🇪🇳🇱🇳🇿🇳🇴🇸🇬🇸🇪🇦🇪🇬🇧🇺🇸
+- [Skilled Migrant Visas (17-39)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/skilled.md) 🇦🇺🇨🇦🇩🇰🇫🇮🇩🇪🇭🇰🇯🇵🇮🇪🇲🇴🇳🇱🇳🇿🇳🇴🇸🇬🇸🇪🇦🇪🇬🇧🇺🇸
 
 - [Working Holiday Visa (7-9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md) 🇦🇺🇨🇦🇯🇵🇳🇿🇸🇬🇰🇷🇬🇧
 
