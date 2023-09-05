@@ -78,7 +78,7 @@
 
 #### [Admission Scheme for Mainland Talents and Professionals (ASMTP)](https://www.immd.gov.hk/eng/faq/admission-scheme-mainland-talents-professionals.html)
 
-- Intro: The objective of the Scheme is to attract qualified Mainland talents and professionals to work in the HKSAR in order to meet local manpower needs and enhance the HKSAR's competitiveness in the globalised market. The Mainland talents and professionals must possess special skills and knowledge or experience of value to and not readily available or in shortage locally. Admitted talents and professionals must be able to contribute to the operation of the firms and sectors concerned with a view to facilitating economic development in the HKSAR.po n
+- Intro: The objective of the Scheme is to attract qualified Mainland talents and professionals to work in the HKSAR in order to meet local manpower needs and enhance the HKSAR's competitiveness in the globalised market. The Mainland talents and professionals must possess special skills and knowledge or experience of value to and not readily available or in shortage locally. Admitted talents and professionals must be able to contribute to the operation of the firms and sectors concerned with a view to facilitating economic development in the HKSAR.
 - Length of Stay: 2 years
 
 #### [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html)
@@ -118,7 +118,34 @@
 
 #### [Employment (Scientific Researcher)](https://www.irishimmigration.ie/coming-to-work-in-ireland/what-are-my-work-visa-options/applying-for-a-long-stay-employment-visa/scientific-researcher/)
 
-- Intro: You can apply for an Employment (Scientific Researcher) visa if you wish to come to Ireland for the purposes of carrying out research under a “hosting agreement”. 
+- Intro: You can apply for an Employment (Scientific Researcher) visa if you wish to come to Ireland for the purposes of carrying out research under a “hosting agreement”.
+
+### Macau
+
+#### [The High-End Talents Programme (E2301)](https://trplatform.cdqq.gov.mo/static/2023/8/3/QQEQ_en%20(E2301).pdf)
+
+- Intro: The Programme aims to recruit talents with exceptional skills, globally
+recognised achievements, or significant contributions in specific fields.
+
+#### [The Outstanding Talents Programme of the Big Health Industry (A2301)](https://trplatform.cdqq.gov.mo/static/2023/8/3/BH_QAQ_en%20(A2301).pdf)
+
+- Intro: The Programme aims to recruit talents who can drive the Big Health
+Industry, who possess professional experience and technical skills.
+
+#### [The Outstanding Talents Programme of the High Technology Industry (A2302)](https://trplatform.cdqq.gov.mo/static/2023/8/31/TP_QAQ_en%20(A2302).pdf)
+
+- Intro: The Programme aims to recruit talents who can drive the High-Tech
+Industry, who possess professional experience and technical skills.
+
+#### [The Advanced Professionals Programme of the Big Health Industry (P2301)](https://trplatform.cdqq.gov.mo/static/2023/8/3/BH_PNA_en%20(P2301).pdf)
+
+- Intro: The Programme aims to recruit talents who can support the Big Health
+Industry, who possess professional experience and technical skills.
+
+#### [The Advanced Professionals Programme of the High Technology Industry (P2302)](https://trplatform.cdqq.gov.mo/static/2023/8/31/TP_PNA_en%20(P2302).pdf)
+
+- Intro: The Programme aims to recruit talents who can support the High-Tech
+Industry, who possess professional experience and technical skills.
 
 ### Netherland
 
