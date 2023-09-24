@@ -43,6 +43,13 @@
 - Intro: The residence permit for the orientation year for highly educated persons is valid for 1 year. 
 - Length of Stay: 12 months
 
+### Portugal
+
+#### [Job Seeker Visa](https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/job-seeker-visa)
+
+- Intro: The job seeker visa entitles its holder to enter and remain only in Portugal for the purpose of looking for job; authorizes him/her to carry out a subordinated work activity, until the visa expires or until the residence permit is granted.
+- Length of Stay: 120 days
+
 ### Singapore
 
 #### [Personalised Employment Pass](https://www.mom.gov.sg/passes-and-permits/personalised-employment-pass)
