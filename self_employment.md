@@ -7,6 +7,13 @@
 - Intro: Foreign nationals who want to be self-employed in Belgium must hold a professional card and follow various steps to exercise their profession. 
 - Length of Stay: 2 years
 
+### Canada
+
+#### [Immigrate to Québec as a self-employed worker](https://www.quebec.ca/en/immigration/immigrate-business/self-employed-workers)
+
+- Intro: You must practise your profession or business activities in Québec, alone or with others, with or without paid help. You must have at least two years of self-employment experience in the profession or trade you intend to practise in Québec.
+- Minimum Net Worth: CDN$100,000
+
 ### Finland
 
 #### [Residence permit application for an employed person (TTOL)](https://migri.fi/en/residence-permit-for-an-employed-person)
