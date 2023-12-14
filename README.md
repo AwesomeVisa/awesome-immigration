@@ -4,7 +4,7 @@
 
 Built by [AwesomeVisa](https://awesomevisa.com)
 
-__This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 53 visas in 7 categories. All information is extracted from the official immigration sites of the following countries.__
+__This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 90 visas in 7 categories. All information is extracted from the official immigration sites of the following countries.__
 
 1. If you find any inaccurate information, please [add a pull request](https://github.com/AwesomeVisa/awesome-immigration/pulls).
 
