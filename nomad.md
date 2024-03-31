@@ -1,5 +1,13 @@
 ## Digital Nomad Visas
 
+### Estonia
+
+#### [Digital Nomad Visa](https://www.e-resident.gov.ee/nomadvisa/)
+
+- Intro: Estonia has already transformed the way a country serves people beyond its borders through e-⁠Residency. Now with the Digital Nomad Visa, Estonia is transforming how people in the world choose to work.
+- Length of Stay: 1 years
+- Income Requirement: minimum of €4,500 gross of tax / month during the six months preceding the application
+
 ### South Korea
 
 #### [Digital Nomad(Workcation) Visa](https://www.immigration.go.kr/immigration_eng/1832/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaW1taWdyYXRpb25fZW5nJTJGMjI5JTJGNTgwMTc5JTJGYXJ0Y2xWaWV3LmRvJTNG)
