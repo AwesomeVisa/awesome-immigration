@@ -5,7 +5,7 @@
 #### [Digital Nomad Visa](https://www.e-resident.gov.ee/nomadvisa/)
 
 - Intro: Estonia has already transformed the way a country serves people beyond its borders through e-⁠Residency. Now with the Digital Nomad Visa, Estonia is transforming how people in the world choose to work.
-- Length of Stay: 1 years
+- Length of Stay: 1 year
 - Income Requirement: minimum of €4,500 monthly income during the six months preceding the application
 
 ### Malta
@@ -15,6 +15,14 @@
 - Intro: The Nomad Residence Permit enables holders to retain their current employment based in another country whilst legally residing in Malta. The Permit is open to individuals who can work remotely and independent of location, using telecommunications technologies.
 - Length of Stay: 1 years, but can extend three times to total 4 years 
 - Income Requirement: minimum of €42,000 annual income during the six months preceding the application
+
+### Romania
+
+#### [Long-stay visa (D/AS) ](https://www.mae.ro/en/node/2054?page=5)
+
+- Intro: Digital nomads who wish to travel and stay on the territory of Romania, while they continue to earn income from employment with a company registered outside Romania or from activities carried out by a company registered by them outside Romania, through the use of information and communication technology.
+- Length of Stay: 1 year 
+- Income Requirement: at least three times the average gross monthly salary in Romania during the six months preceding the application, as well as for the entire period covered by the visa
 
 ### South Korea
 
