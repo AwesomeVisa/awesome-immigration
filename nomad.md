@@ -8,6 +8,14 @@
 - Length of Stay: 1 year and can extend to another 5 years
 - Income Requirement: Not stated
 
+### Armenia
+
+#### [Temporary Residency in Armenia](https://www.mfa.am/en/residency/)
+
+- Intro: Not stated
+- Length of Stay: 1 year and can extend to another 1 years
+- Income Requirement: Not stated
+
 ### Cyprus
 
 #### [Digital nomads and family members](https://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/BF9908B541BFF7D3C22587EA003CD306)
