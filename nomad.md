@@ -8,6 +8,14 @@
 - Length of Stay: 1 year
 - Income Requirement: minimum of €4,500 monthly income during the six months preceding the application
 
+### Hugary
+
+#### [White Card]([https://nomad.residencymalta.gov.mt/)](http://www.bmbah.hu/index.php?option=com_k2&view=item&id=2241)
+
+- Intro: A White Card shall be granted to a third-country national who has a verified employment relationship in a country other than Hungary and performs his/her work from Hungary using an advanced digital technology solution, or owns a share in a company with a verified profit in a country other than Hungary and performs his/her work or manages his/her company from Hungary using an advanced digital technology solution.
+- Length of Stay: 1 years, but can extend to another years 
+- Income Requirement: minimum of €3,000 monthly income during the six months preceding the application
+
 ### Malta
 
 #### [Nomad Resident Permit](https://nomad.residencymalta.gov.mt/)
