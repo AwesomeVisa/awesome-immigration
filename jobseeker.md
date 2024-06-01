@@ -22,6 +22,11 @@
 - Intro: With the visa for the purpose of looking for a job in accordance with Section 20 (1) (2) AufenthG (German Residence Act), you improve your chances of making contact with German employers and finding a job in Germany that matches your qualifications. 
 - Length of Stay: 6 months
 
+#### [Job search opportunity card](https://www.make-it-in-germany.com/en/visa-residence/types/job-search-opportunity-card)
+
+- Intro: The opportunity card (Section 20a of the Residence Act [AufenthG]) improves your chances of making contact with German employers and finding qualified employment in Germany. 
+- Length of Stay: 12 months
+
 ### Hong Kong
 
 #### [Top Talent Pass Scheme](https://www.immd.gov.hk/eng/services/visas/TTPS.html)
