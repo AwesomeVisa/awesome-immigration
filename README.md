@@ -4,7 +4,7 @@
 
 Built by [AwesomeVisa](https://awesomevisa.com)
 
-__This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 90 visas in 7 categories. All information is extracted from the official immigration sites of the following countries.__
+__This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 102 visas in 8 categories. All information is extracted from the official immigration sites of the following countries.__
 
 1. If you find any inaccurate information, please [add a pull request](https://github.com/AwesomeVisa/awesome-immigration/pulls).
 
@@ -14,15 +14,17 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Visas
 
+- [Digital Nomad Visas (10-10)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/nomad.md) 🇦🇱🇦🇲🇨🇾🇪🇪🇭🇺🇱🇻🇲🇹🇷🇴🇰🇷🇪🇸
+  
 - [Entrepreneur Visas (9-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md) 🇦🇺🇨🇦🇫🇮🇯🇵🇳🇱🇳🇿🇸🇬🇦🇪🇬🇧
 
-- [Job Seeker Visas (10-11)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md) 🇨🇿🇨🇦🇩🇪🇭🇰🇯🇵🇳🇱🇵🇹🇸🇬🇸🇪🇬🇧
+- [Job Seeker Visas (10-12)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md) 🇨🇿🇨🇦🇩🇪🇭🇰🇯🇵🇳🇱🇵🇹🇸🇬🇸🇪🇬🇧
 
 - [Post Study Visas (5-6)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md) 🇦🇺🇨🇦🇭🇰🇳🇱🇳🇿
 
 - [Retirement Visa (4-4)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/retirement.md) 🇲🇾🇵🇹🇹🇭🇦🇪
 
-- [Self-employment Visas (8-8)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md) 🇧🇪🇫🇮🇫🇷🇩🇪🇮🇹🇳🇱🇳🇴🇦🇪
+- [Self-employment Visas (9-9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/self_employment.md) 🇧🇪🇨🇦🇫🇮🇫🇷🇩🇪🇮🇹🇳🇱🇳🇴🇦🇪
 
 - [Skilled Migrant Visas (17-39)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/skilled.md) 🇦🇺🇨🇦🇩🇰🇫🇮🇩🇪🇭🇰🇯🇵🇮🇪🇲🇴🇳🇱🇳🇿🇳🇴🇸🇬🇸🇪🇦🇪🇬🇧🇺🇸
 
