@@ -22,7 +22,7 @@
 
 ### France
 
-#### [Temporary residence card entrepreneur/professional](https://www.service-public.fr/particuliers/vosdroits/F35495/2_1_1_9?idFicheParent=N110&lang=en#2_1_1_9)
+#### [Temporary residence card entrepreneur/professional](https://www.service-public.fr/particuliers/vosdroits/F35795?lang=en)
 
 - Intro: Temporary residence card entrepreneur/professional allows you to work in France as a self-employed person for a period exceeding 3 months.
 - Length of Stay: 1 year
