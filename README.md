@@ -44,9 +44,9 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Before Applying for A Visa
 
-0. Before any decision being made, you can start doing [these](https://letters.acacess.com/exodus-2-7/)
+0. Before any decision being made, you can start doing [these](https://exodus.awesomevisa.com/exodus-2-7/)
 
-   1. [Learn English](https://letters.acacess.com/exodus-2-10/)
+   1. [Learn English](https://exodus.awesomevisa.com/exodus-2-10/)
    2. Learn how to use a search engine
    3. Learn think independently
    4. Apply for an international credit card
@@ -80,12 +80,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
   
 5. Decide how much time
 
-   1. How much you needed for immigration (See [here](https://letters.acacess.com/exodus-2-19/))
+   1. How much you needed for immigration (See [here](https://exodus.awesomevisa.com/exodus-2-19/))
       1. Time for preparing visa application
       2. Time for applying for visa
       3. Time for applying for PR
       4. Time for applying for citizenship 
-   3. How to allocate time for each step (See [here](https://letters.acacess.com/exodus-2-17/))
+   3. How to allocate time for each step (See [here](https://exodus.awesomevisa.com/exodus-2-17/))
       1. Allocate time for language test
       2. Allocate time for job hunting
       3. Allocate time for document preparation
@@ -113,14 +113,14 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 ### Applying for A Visa
 
 1. Prepare the application mentally
-   1. [Keep motivated](https://letters.acacess.com/exodus-2-22/)
-   2. [Keep positive](https://letters.acacess.com/exodus-2-16/)
-   3. [Face anxiety](https://letters.acacess.com/exodus-2-11/)
-   4. [Face unknown](https://letters.acacess.com/exodus-2-9/)
-   5. [Face uncertainty](https://letters.acacess.com/exodus-1-15/)
-   6. [Adjust mentality](https://letters.acacess.com/exodus-1-4/)
+   1. [Keep motivated](https://exodus.awesomevisa.com/exodus-2-22/)
+   2. [Keep positive](https://exodus.awesomevisa.com/exodus-2-16/)
+   3. [Face anxiety](https://exodus.awesomevisa.com/exodus-2-11/)
+   4. [Face unknown](https://exodus.awesomevisa.com/exodus-2-9/)
+   5. [Face uncertainty](https://exodus.awesomevisa.com/exodus-1-15/)
+   6. [Adjust mentality](https://exodus.awesomevisa.com/exodus-1-4/)
 
-2. Collect visa information (See [here](https://letters.acacess.com/exodus-2-1/), and [here](https://letters.acacess.com/exodus-03/))
+2. Collect visa information (See [here](https://exodus.awesomevisa.com/exodus-2-1/), and [here](https://exodus.awesomevisa.com/exodus-03/))
 
 3. Evaluate the success rate of visa application based on your conditions
 
@@ -131,10 +131,10 @@ __This list is built to provide convenience for those who aim to immigrate to ot
    5. Fund
    6. Other conditions as required by a specific visa
 
-4. Prepare relevant documents (See [here](https://letters.acacess.com/exodus-2-21/))
+4. Prepare relevant documents (See [here](https://exodus.awesomevisa.com/exodus-2-21/))
 
    1. Passport
-   2. Degree attestation (See [here](https://letters.acacess.com/exodus-2-23/))
+   2. Degree attestation (See [here](https://exodus.awesomevisa.com/exodus-2-23/))
    3. Birth certificate
    4. Job certificate
    5. Bank statement
@@ -142,11 +142,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 5. Find a suitable job if needed
 
-   1. Prepare a resume (See [here](https://letters.acacess.com/exodus-06/))
-   2. Locate oversea job opportunities ([Using Indeed](https://letters.acacess.com/exodus-02/), and [Glassdoor, Level.fyi, Wellfound and RemoteOK](https://letters.acacess.com/exodus-2-14/))
-   3. Track job application status ([Using Notion](https://letters.acacess.com/exodus-2-8/))
-   4. Evaluate a potential company ([Using LinkedIn](https://letters.acacess.com/exodus-2-4/))
-   5. Prepare for job interviews (See [here](https://letters.acacess.com/exodus-09/))
+   1. Prepare a resume (See [here](https://exodus.awesomevisa.com/exodus-06/))
+   2. Locate oversea job opportunities ([Using Indeed](https://exodus.awesomevisa.com/exodus-02/), and [Glassdoor, Level.fyi, Wellfound and RemoteOK](https://exodus.awesomevisa.com/exodus-2-14/))
+   3. Track job application status ([Using Notion](https://exodus.awesomevisa.com/exodus-2-8/))
+   4. Evaluate a potential company ([Using LinkedIn](https://exodus.awesomevisa.com/exodus-2-4/))
+   5. Prepare for job interviews (See [here](https://exodus.awesomevisa.com/exodus-09/))
    6. Negociate the package
 
       1. visa sponsorship
@@ -172,11 +172,11 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 4. Prepare fund if needed
    
-   1. Decide how much fund is needed (See [here](https://letters.acacess.com/exodus-2-3/))
+   1. Decide how much fund is needed (See [here](https://exodus.awesomevisa.com/exodus-2-3/))
    2. Buy foreign currency if needed
    3. Apply for travel cheque if possible
   
-5. Prepare for moving out (See [here](https://letters.acacess.com/exodus-2-25/))
+5. Prepare for moving out (See [here](https://exodus.awesomevisa.com/exodus-2-25/))
 
 ### After Landing
 
