@@ -4,7 +4,7 @@
 
 ## Built by [AwesomeVisa](https://awesomevisa.com)
 
-**技术移民指南 -> [Exodus by AwesomeVisa](https://exodus.awesomevisa.com)**
+**DIY 技术移民指南 -> [Exodus by AwesomeVisa](https://exodus.awesomevisa.com)**
 
 ---
 
