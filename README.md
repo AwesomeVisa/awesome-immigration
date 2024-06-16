@@ -34,6 +34,8 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 - [Working Holiday Visa (7-9)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/whv.md) 🇦🇺🇨🇦🇯🇵🇳🇿🇸🇬🇰🇷🇬🇧
 
+- [Visa for IT Professionals (5-8)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/it.md) 🇩🇰🇩🇪🇭🇰🇸🇬
+
 ### PR and Citizenship
 
 - [Permanent Residency (13-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/PR.md) 🇦🇺🇨🇦🇩🇰🇫🇮🇭🇰🇩🇪🇯🇵🇳🇱🇳🇿🇳🇴🇸🇬🇸🇪🇬🇧
