@@ -18,7 +18,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 
 ### Visas
 
-- [Digital Nomad Visas (10-10)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/nomad.md) 🇦🇱🇦🇲🇨🇾🇪🇪🇭🇺🇱🇻🇲🇹🇷🇴🇰🇷🇪🇸
+- [Digital Nomad Visas (11-11)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/nomad.md) 🇦🇱🇦🇲🇨🇾🇨🇷🇪🇪🇭🇺🇱🇻🇲🇹🇷🇴🇰🇷🇪🇸
   
 - [Entrepreneur Visas (9-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md) 🇦🇺🇨🇦🇫🇮🇯🇵🇳🇱🇳🇿🇸🇬🇦🇪🇬🇧
 
