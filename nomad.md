@@ -16,6 +16,13 @@
 - Length of Stay: 1 year and can extend to another 1 years
 - Income Requirement: Not stated
 
+### Costa Rica
+
+#### [Immigration Sub-category of Stay (Stay) for Remote Workers and Service Providers](https://www.migracion.go.cr/Paginas/Categor%c3%ada%20Migratorias%20%28Extranjer%c3%ada%29/Digital-Nomads.aspx)
+
+- Intro: Foreign nationals may apply to the immigration sub-category of Stay (Stay) for Remote Workers and Service Providers if they provide paid services remotely, irrespective of whether such services are subcontracted, using digital or telecommunication technologies or analogous means, to a natural person or legal entity located outside of Costa Rica.
+- Income Requirement: minimum of $ 3000.00 monthly income
+
 ### Cyprus
 
 #### [Digital nomads and family members](https://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/BF9908B541BFF7D3C22587EA003CD306)
