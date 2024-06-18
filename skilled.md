@@ -39,7 +39,7 @@
 
 #### [The Pay Limit Scheme](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Pay-limit-scheme)
 
-- Intro: You have been offered a job in Denmark with a salary of DKK 426,985.06 or higher.
+- Intro: You have been offered a job in Denmark with a salary of DKK 487,000 or higher.
 - Length of Stay: 4 years
 
 #### [The Positive List for People with a Higher Education](https://www.nyidanmark.dk/en-GB/You-want-to-apply/Work/Positive-List-Higher-Education)
