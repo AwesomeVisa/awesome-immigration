@@ -192,7 +192,7 @@ Industry, who possess professional experience and technical skills.
 
 #### [S Pass](https://www.mom.gov.sg/passes-and-permits/s-pass)
 
-- Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $3000 a month and have the relevant qualifications and work experience.
+- Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $3150 a month and have the relevant qualifications and work experience.
 - Length of Stay: 2 year
 - [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
 
