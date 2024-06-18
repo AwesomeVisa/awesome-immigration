@@ -6,6 +6,8 @@
 
 **DIY 技术移民指南 -> [Exodus by AwesomeVisa](https://exodus.awesomevisa.com)**
 
+**Telegram Channel -> [AwesomeVisa](https://t.me/pillarsalt)**
+
 ---
 
 __This list is built to provide convenience for those who aim to immigrate to other countries. By far, there are 102 visas in 8 categories. All information is extracted from the official immigration sites of the following countries.__
