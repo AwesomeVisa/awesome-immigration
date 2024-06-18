@@ -13,16 +13,16 @@
 
 - Intro: Attractive routes have been created for IT specialists from outside the EU/EEA and Switzerland (so-called “third countries”) to obtain a work visa in Germany. The type of visa you are eligible for depends on your qualifications and the job offer in Germany.
 
-[EU Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
+#### [EU Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
 
 - Intro: If you have a formally recognised academic or tertiary-level qualification in IT and have a concrete job offer in Germany, you can obtain an EU Blue Card.
 - Length of Stay: 4 years
 
-[Work visa for qualified professionals](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
+#### [Work visa for qualified professionals](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 
 - Intro: A residence permit for qualified employment (under Section 18a or Section 18b of the Residence Act [AufenthG]) may apply to you if you have completed training or a degree in IT that is recognised in Germany or is equivalent, but you do not meet the requirements for an EU Blue Card.
 
-[Visa for professionally experiences workers](https://www.make-it-in-germany.com/en/visa-residence/types/visa-professionally-experienced-workers)
+#### [Visa for professionally experiences workers](https://www.make-it-in-germany.com/en/visa-residence/types/visa-professionally-experienced-workers)
 
 - Intro: You can work as an IT specialist in Germany even if you do not have a formal vocational qualification or university degree, as long as you can prove that you have work experience in the IT sector.
   
