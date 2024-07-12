@@ -204,7 +204,7 @@ Industry, who possess professional experience and technical skills.
 
 ### UAE
 
-#### [Specialists in Science and Engineering Golden VisaGolden Visa](https://adro.gov.ae/golden-visa/Special-Talent/Specialized-in-Engineering-or-Science)
+#### [Specialists in Science and Engineering Golden Visa](https://www.adro.gov.ae/en/Obsolete-Pages/golden-visa/Special-Talent/Specialized-in-Engineering-or-Science)
 
 - Intro: You can apply for this visa, if you:
     1. Have a Bachelor or Master degree from a leading university, accredited by the UAE Ministry of Education, in one of the following disciplines:
