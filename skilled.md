@@ -2,7 +2,7 @@
 
 ### Australia
 
-#### [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189) 
+#### [Skilled Independent visa (subclass 189)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/skilled-independent-189)
 
 - Intro: This visa is for invited workers and New Zealand citizens with skills we need, to live and work permanently anywhere in Australia.
 - Length of Stay: Permanently
@@ -18,14 +18,14 @@
 
 ### Canada
 
-#### [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 
+#### [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
 
 - Intro: Immigrate as a skilled worker
 - Length of Stay: Permanently
 - [Point Calculator](https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool-immigration-express-entry.html)
 - Minimum Points: 67
 
-#### [Quebec-selected skilled workers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers.html) 
+#### [Quebec-selected skilled workers](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers.html)
 
 - Intro: Immigrate as a skilled worker in the province of Quebec
 - Length of Stay: Permanently
@@ -60,12 +60,12 @@
 
 ### Germany
 
-#### [Qualified professionals](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/work-qualified-professionals/)
+#### [Qualified professionals](https://www.make-it-in-germany.com/en/visa-residence/types/work-qualified-professionals)
 
 - Intro: Highly-qualified foreigners are in particular scientists with special technical knowledge, as well as teaching personnel and scientific personnel in prominent positions.
 - Length of Stay: 4 years
 
-#### [The EU Blue Card](https://www.make-it-in-germany.com/en/visa/kinds-of-visa/eu-blue-card)
+#### [The EU Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
 
 - Intro: The EU Blue Card enables third-country nationals who are university graduates or who have a comparable qualification to receive a residence title for the purpose of employment suiting their qualification.
 - Length of Stay: 4 years
@@ -84,7 +84,7 @@
 #### [Quality Migrant](https://www.immd.gov.hk/eng/services/visas/quality_migrant_admission_scheme.html)
 
 - Intro: It seeks to attract( highly skilled or talented persons to settle in Hong Kong in order to enhance Hong Kong's economic competitiveness.
-- [Point Calculator](https://www.immd.gov.hk/eng/services/visas/points-based-tests.html)
+- [Point Calculator](https://www.immd.gov.hk/eng/services/visas/quality-migrant-admission/self-assessment-tool.html)
 - Minimum Points: 80
 
 #### [Technology Talent Admission Scheme (TechTAS)](https://www.immd.gov.hk/eng/services/visas/TECHTAS.html)
@@ -98,13 +98,13 @@
 
 - Intro: From April 2023, the Special Highly Skilled Foreign Professional System (J-Skip) will be introduced, and apart from the point system for highly skilled professionals so far, if you have a certain level of academic background or work experience and annual income above a certain level, you will be able to stay as a "highly skilled professional". In the case of status of residence “Highly Skilled Professional No. 2” (Persons with a master's degree or higher and an annual income of 20 million yen or more), period of stay will be indefinite.
 
-#### [Advanced academic research activities](https://www.moj.go.jp/isa/content/930003140.pdf)
+#### [Advanced academic research activities](https://www.moj.go.jp/ENGLISH/m_hisho06_00043.html)
 
 - Intro: Activities of engaging in research, research guidance or education based on a contract entered into with a public or private organization in Japan.
 - Length of Stay: 5 years (maximum)
 - Minimum Points: 70
 
-#### [Advanced specialized/technical activities](https://www.moj.go.jp/isa/content/930003140.pdf)
+#### [Advanced specialized/technical activities](https://www.moj.go.jp/ENGLISH/m_hisho06_00043.html)
 
 - Intro: Activities of engaging in work requiring specialized knowledge or skills in the field of natural sciences or humanities based on a contract entered into with a public or private organization in Japan.
 - Length of Stay: 5 years (maximum)
@@ -156,11 +156,11 @@ Industry, who possess professional experience and technical skills.
 
 ### New Zealand
 
-#### [Skilled Migrant Category Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/skilled-migrant-category-resident-visa)
+#### [Skilled Migrant Category Resident Visa](https://www.immigration.govt.nz/visas/skilled-migrant-category-resident-visa/)
 
 - Length of Stay: Indefinitely
 - Age Range: 55 or under
-- [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-indicator-smc-28aug)
+- [Point Calculator](https://www.immigration.govt.nz/visas/skilled-migrant-category-resident-visa/)
 - Minimum Points: 100
 - 'Currently, we are only selecting EOIs with 160 points or above'
 
@@ -177,7 +177,7 @@ Industry, who possess professional experience and technical skills.
 
 - Intro: The Employment Pass allows foreign professionals, managers and executives to work in Singapore. Candidates need to earn at least $5,000 a month and have acceptable qualifications.
 - Length of Stay: 2 year (new pass), 3 years (subsequent)
-- [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
+- [Point Calculator](https://www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool)
 
 #### [Overseas Networks & Expertise Pass](https://www.mom.gov.sg/passes-and-permits/overseas-networks-expertise-pass)
 
@@ -194,17 +194,17 @@ Industry, who possess professional experience and technical skills.
 
 - Intro: The S Pass allows mid-level skilled staff to work in Singapore. Candidates need to earn at least $3150 a month and have the relevant qualifications and work experience.
 - Length of Stay: 2 year
-- [Point Calculator](https://service1.mom.gov.sg/workpass/sat)
+- [Point Calculator](https://www.mom.gov.sg/eservices/services/employment-s-pass-self-assessment-tool)
 
 ### Sweden
 
-#### [Work permit](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Employed/Work-permit-requirements.html)
+#### [Work permit](https://www.migrationsverket.se/en/you-want-to-apply/work.html)
 
 - Intro: You must have been offered a job before you can obtain a work permit. You cannot enter Sweden until the permit has been granted. You cannot obtain a work permit to go to Sweden and look for a job.
 
 ### UAE
 
-#### [Specialists in Science and Engineering Golden Visa](https://www.adro.gov.ae/en/Obsolete-Pages/golden-visa/Special-Talent/Specialized-in-Engineering-or-Science)
+#### [Specialists in Science and Engineering Golden Visa](https://www.adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa/Specialists)
 
 - Intro: You can apply for this visa, if you:
     1. Have a Bachelor or Master degree from a leading university, accredited by the UAE Ministry of Education, in one of the following disciplines:
@@ -231,13 +231,13 @@ Industry, who possess professional experience and technical skills.
 
 ### UK
 
-#### [General work visa (Tier 2)](https://www.gov.uk/tier-2-general)
+#### [General work visa (Tier 2)](https://www.gov.uk/skilled-worker-visa)
 
 - Intro: You can apply for a Tier 2 (General) visa if: 
     1. you’ve been offered a skilled job in the UK; 
     2. you’re from outside the European Economic Area (EEA) and Switzerland
 - Length of Stay: a maximum of 5 years and 14 days
-- [Point Document](https://www.gov.uk/government/publications/points-based-system-tier-2)
+- [Point Document](https://www.gov.uk/government/publications/skilled-worker-visa-caseworker-guidance)
 - Minimum Points: 70
 
 #### [Global Talent visa](https://www.gov.uk/global-talent)
@@ -255,7 +255,7 @@ Industry, who possess professional experience and technical skills.
 
 ### US
 
-#### [Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3)
+#### [Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3)
 
 - Intro: You may be eligible for this immigrant visa preference category if you are a skilled worker, professional, or other worker: 
     1. “Skilled workers” are persons whose job requires a minimum of 2 years training or work experience, not of a temporary or seasonal nature; 
