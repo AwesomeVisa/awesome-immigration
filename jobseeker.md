@@ -1,12 +1,5 @@
 ## Job Seeker Visas
 
-### Czech
-
-#### [Long-term residence of seeking employment](https://www.mvcr.cz/mvcren/article/third-country-nationals-long-term-residence.aspx?q=Y2hudW09NA%3d%3d)
-
-- Intro: Foreign nationals who are residing in the territory of the Czech Republic with a long-term residence permit for the purpose of studies and who successfully completed their university education are eligible to file an application for a long-term residence permit for the purpose of seeking employment or, as the case may be, an application for a long-term residence permit for the purpose of starting a business.
-- Length of Stay: 9 months
-
 ### Canada
 
 #### [Express Entry](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html) 
@@ -17,12 +10,12 @@
 
 ### Germany
 
-#### [Visa for jobseekers](https://www.make-it-in-germany.com/en/visa-residence/types/jobseekers)
+#### [Visa for jobseekers](https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search)
 
 - Intro: With the visa for the purpose of looking for a job in accordance with Section 20 (1) (2) AufenthG (German Residence Act), you improve your chances of making contact with German employers and finding a job in Germany that matches your qualifications. 
 - Length of Stay: 6 months
 
-#### [Job search opportunity card](https://www.make-it-in-germany.com/en/visa-residence/types/job-search-opportunity-card)
+#### [Job search opportunity card](https://www.make-it-in-germany.com/en/visa-residence/opportunity-card/job-search)
 
 - Intro: The opportunity card (Section 20a of the Residence Act [AufenthG]) improves your chances of making contact with German employers and finding qualified employment in Germany. 
 - Length of Stay: 12 months
@@ -52,7 +45,7 @@
 
 #### [Job Seeker Visa](https://vistos.mne.gov.pt/en/national-visas/necessary-documentation/job-seeker-visa)
 
-- Intro: The job seeker visa entitles its holder to enter and remain only in Portugal for the purpose of looking for job; authorizes him/her to carry out a subordinated work activity, until the visa expires or until the residence permit is granted.
+- Intro: Waiting for the necessary regulation of Article 57-A of the Foreigners' Law.
 - Length of Stay: 120 days
 
 ### Singapore
@@ -62,14 +55,14 @@
 - Intro: The Personalised Employment Pass is for high-earning Employment Pass holders and overseas foreign professionals. It is not tied to an employer and offers greater flexibility than an Employment Pass.
 - Length of Stay: 3 years
 
-#### [Tech.Pass](https://www.edb.gov.sg/en/how-we-help/incentives-and-schemes/tech-pass.html)
+#### [Tech.Pass](https://www.edb.gov.sg/en/incentives-and-programmes/incentives-and-facilitation-programmes/tech-pass.html)
 
 - Intro: Tech.Pass is a visa that allows established tech entrepreneurs, leaders or technical experts from around the world to come to Singapore to perform frontier and disruptive innovations.
 - Length of Stay: 2 years
 
 ### Sweden
 
-#### [Residence permit for highly qualified persons to look for work or start a business](https://www.migrationsverket.se/English/Private-individuals/Working-in-Sweden/Look-for-work-or-start-a-business.html)
+#### [Residence permit for highly qualified persons to look for work or start a business](https://www.migrationsverket.se/en/you-want-to-apply/work/look-for-work/look-for-work-or-start-a-business.html)
 
 - Intro: The permit may be granted for a minimum of three months and for no more than nine months. During the period that you have this residence permit, your family cannot move to Sweden to live with you.
 - Length of Stay: 9 months
