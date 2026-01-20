@@ -9,11 +9,11 @@
 
 ### Germany
 
-#### [Visa options for IT professionals](https://www.make-it-in-germany.com/en/visa-residence/types/it-professionals)
+#### [Visa for IT professionals](https://www.make-it-in-germany.com/en/visa-residence/types/it-professionals)
 
 - Intro: Attractive routes have been created for IT specialists from outside the EU/EEA and Switzerland (so-called “third countries”) to obtain a work visa in Germany. The type of visa you are eligible for depends on your qualifications and the job offer in Germany.
 
-#### [EU Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
+#### [The EU Blue Card](https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card)
 
 - Intro: If you have a formally recognised academic or tertiary-level qualification in IT and have a concrete job offer in Germany, you can obtain an EU Blue Card.
 - Length of Stay: 4 years
@@ -35,7 +35,7 @@
 
 ### Singapore
 
-#### [Tech.Pass](https://www.edb.gov.sg/en/grants/incentives-and-schemes/tech-pass.html)
+#### [Tech.Pass](http://edb.gov.sg/en/incentives-and-programmes/incentives-and-facilitation-programmes/tech-pass.html)
 
 - Intro: Tech.Pass is a visa that allows established tech entrepreneurs, leaders or technical experts from around the world to come to Singapore to perform frontier and disruptive innovations.
 - Length of Stay: 2 Years
