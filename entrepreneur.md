@@ -36,7 +36,7 @@
 
 ### Japan
 
-#### [Advanced business management activities](https://www.isa.go.jp/en/publications/materials/newimmiact_3_system_index.html)
+#### [Advanced business management activities](https://www.moj.go.jp/ENGLISH/m_hisho06_00043.html)
 
 - Intro: Activities of engaging in the operation or management of a public or private organization in Japan.
 - Length of Stay: 5 years (maximum)
@@ -51,11 +51,11 @@
 
 ### New Zealand
 
-#### [Entrepreneur Resident Visa](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/about-visa/entrepreneur-resident-visa)
+#### [Entrepreneur Resident Visa](https://www.immigration.govt.nz/visas/entrepreneur-resident-visa/)
 
 - Intro: This visa is for people who have been self-employed in New Zealand at least 6 months, or have operated a business for two years on another visa that allows self-employment.
 - Length of Stay: Indefinitely
-- [Point Calculator](https://www.immigration.govt.nz/new-zealand-visas/apply-for-a-visa/tools-and-information/tools/points-scale-entrepreneurs-work-visa)
+- [Point Calculator](https://www.mbie.govt.nz/immigration-and-tourism/immigration/immigration-consultations/future-of-the-skilled-migrant-category/simplified-points-system-in-depth)
 - Minimum Points: 120
 
 ### Singapore
@@ -67,7 +67,7 @@
 
 ### UAE
 
-#### [Entrepreneur Golden Visa](https://adro.gov.ae/golden-visa/Entrepreneur)
+#### [Entrepreneur Golden Visa](https://adro.gov.ae/Visas/Types-of-Visas/Abu-Dhabi-Golden-Visa/Entrepreneurs)
 
 - Intro: The Entrepreneur Golden Visa is for entrepreneurs looking to set up a business in Abu Dhabi.
 - Must have a successful project in the UAE of a value of at least AED 500,000
