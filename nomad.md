@@ -18,14 +18,14 @@
 
 ### Costa Rica
 
-#### [Immigration Sub-category of Stay (Stay) for Remote Workers and Service Providers](https://www.migracion.go.cr/Paginas/Categor%c3%ada%20Migratorias%20%28Extranjer%c3%ada%29/Digital-Nomads.aspx)
+#### [Immigration Sub-category of Stay (Stay) for Remote Workers and Service Providers](https://migracion.go.cr/nomadas-digitales/)
 
 - Intro: Foreign nationals may apply to the immigration sub-category of Stay (Stay) for Remote Workers and Service Providers if they provide paid services remotely, irrespective of whether such services are subcontracted, using digital or telecommunication technologies or analogous means, to a natural person or legal entity located outside of Costa Rica.
 - Income Requirement: minimum of $ 3000.00 monthly income
 
 ### Cyprus
 
-#### [Digital nomads and family members](https://www.moi.gov.cy/moi/CRMD/crmd.nsf/All/BF9908B541BFF7D3C22587EA003CD306)
+#### [Digital nomads and family members](https://mip.gov.cy/dmmip/md.nsf/All/BF9908B541BFF7D3C22587EA003CD306)
 
 - Intro: The "Cyprus Digital Nomad Visa" Scheme allows nationals from non-EU and non-EEA countries, who can perform their work location-independently using telecommunications technology, to reside temporarily in Cyprus and work for an employer registered abroad or perform work through telecommunications technology for companies or clients located abroad.
 - Length of Stay: 1 year and can extend to another 2 years
@@ -41,7 +41,7 @@
 
 ### Hugary
 
-#### [White Card](http://www.bmbah.hu/index.php?option=com_k2&view=item&id=2241)
+#### [White Card](https://oif.gov.hu/factsheets/white-card-residency-for-digital-nomads)
 
 - Intro: A White Card shall be granted to a third-country national who has a verified employment relationship in a country other than Hungary and performs his/her work from Hungary using an advanced digital technology solution, or owns a share in a company with a verified profit in a country other than Hungary and performs his/her work or manages his/her company from Hungary using an advanced digital technology solution.
 - Length of Stay: 1 year, and can extend to another years 
