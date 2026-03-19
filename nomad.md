@@ -71,6 +71,15 @@
 - Length of Stay: 1 year 
 - Income Requirement: at least three times the average gross monthly salary in Romania during the six months preceding the application, as well as for the entire period covered by the visa
 
+### Portugal
+
+#### [D8 Digital Nomad Visa](https://vistos.mne.gov.pt/en/)
+
+- Intro: The D8 visa allows remote workers and digital nomads to live in Portugal while working for employers or clients outside Portugal. Applicants must demonstrate regular income from remote work.
+- Length of Stay: 1 year, renewable for up to 5 years
+- Income Requirement: minimum of 4x the Portuguese minimum wage (approximately €3,480/month)
+- Resources: [VerdeDesk](https://verdedesk.vercel.app) - Free English guides and tax tools for freelancers in Portugal (green receipts, IRS, VAT, social security)
+
 ### South Korea
 
 #### [Digital Nomad(Workcation) Visa](https://www.immigration.go.kr/immigration_eng/1832/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaW1taWdyYXRpb25fZW5nJTJGMjI5JTJGNTgwMTc5JTJGYXJ0Y2xWaWV3LmRvJTNG)
