@@ -144,11 +144,12 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 4. Prepare relevant documents (See [here](https://exodus.awesomevisa.com/exodus-2-21/))
 
    1. Passport
-   2. Degree attestation (See [here](https://exodus.awesomevisa.com/exodus-2-23/))
-   3. Birth certificate
-   4. Job certificate
-   5. Bank statement
-   6. Other documents as required by a specific visa
+   2. Passport-compliant photos for visa applications (free browser-only tool: [IDPhotoSnap](https://idphotosnap.com) covers 100 countries with specs validated against 15+ official government sources)
+   3. Degree attestation (See [here](https://exodus.awesomevisa.com/exodus-2-23/))
+   4. Birth certificate
+   5. Job certificate
+   6. Bank statement
+   7. Other documents as required by a specific visa
 
 5. Find a suitable job if needed
 
