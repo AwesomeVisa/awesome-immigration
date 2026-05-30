@@ -47,6 +47,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 ### Misc
 
 - [Certified Immigrant Advisors (5-5)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/advisor.md) 🇦🇺🇨🇦🇳🇿🇬🇧🇺🇸
+- [IDPhotoSnap](https://idphotosnap.com) - Free browser-only visa and passport photo tool covering 100+ countries and 248 document formats including all visas in this list (Schengen, US DS-160, UK, Canada, Australia, UAE, Saudi). Specs validated against 15+ official government sources. Open MIT dataset at [github.com/whitetirocket/passport-photo-specs](https://github.com/whitetirocket/passport-photo-specs). No upload, no signup, no watermark.
 
 ---
 
