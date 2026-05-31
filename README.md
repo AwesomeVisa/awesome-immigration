@@ -24,7 +24,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
   
 - [Entrepreneur Visas (9-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/entrepreneur.md) 🇦🇺🇨🇦🇫🇮🇯🇵🇳🇱🇳🇿🇸🇬🇦🇪🇬🇧
 
-- [Job Seeker Visas (10-12)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md) 🇨🇿🇨🇦🇩🇪🇭🇰🇯🇵🇳🇱🇵🇹🇸🇬🇸🇪🇬🇧
+- [Job Seeker Visas (11-13)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/jobseeker.md) 🇨🇿🇨🇦🇩🇪🇭🇰🇯🇵🇳🇱🇵🇹🇸🇬🇰🇷🇸🇪🇬🇧
 
 - [Post Study Visas (5-6)](https://github.com/AwesomeVisa/awesome-immigration/blob/master/post_study.md) 🇦🇺🇨🇦🇭🇰🇳🇱🇳🇿
 
