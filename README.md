@@ -153,7 +153,7 @@ __This list is built to provide convenience for those who aim to immigrate to ot
 5. Find a suitable job if needed
 
    1. Prepare a resume (See [here](https://exodus.awesomevisa.com/exodus-06/))
-   2. Locate oversea job opportunities ([Using Indeed](https://exodus.awesomevisa.com/exodus-02/), and [Glassdoor, Level.fyi, Wellfound and RemoteOK](https://exodus.awesomevisa.com/exodus-2-14/))
+   2. Locate oversea job opportunities ([Using Indeed](https://exodus.awesomevisa.com/exodus-02/), and [Glassdoor, Level.fyi, Wellfound and RemoteOK](https://exodus.awesomevisa.com/exodus-2-14/)); for Europe-specific searches use [EuroJobs.ai](https://eurojobs.ai) (28,000+ IT jobs aggregated from employers' own career pages with visa sponsorship and remote filters)
    3. Track job application status ([Using Notion](https://exodus.awesomevisa.com/exodus-2-8/))
    4. Evaluate a potential company ([Using LinkedIn](https://exodus.awesomevisa.com/exodus-2-4/))
    5. Prepare for job interviews (See [here](https://exodus.awesomevisa.com/exodus-09/))
