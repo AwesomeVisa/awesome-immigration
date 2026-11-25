@@ -47,6 +47,14 @@
 - Length of Stay: 1 year, and can extend to another years 
 - Income Requirement: minimum of €3,000 monthly income during the six months preceding the application
 
+### Japan
+
+#### [Digital Nomad (Designated Activities No. 53)](https://www.moj.go.jp/isa/applications/status/designatedactivities53_00001.html)
+
+- Intro: Remote workers employed by, or providing services to, organizations outside Japan may stay under the Designated Activities status. Applicants must be nationals of a visa-waiver country/region that has a tax treaty with Japan and hold private medical insurance covering at least 10 million JPY. A spouse or child may accompany under Designated Activities No. 54.
+- Length of Stay: 6 months, not extendable (re-application possible after leaving Japan for 6 months)
+- Income Requirement: minimum of 10,000,000 JPY annual income
+
 ### Latvia
 
 #### [Long-stay Visa for Remote Work](https://www.pmlp.gov.lv/en/article/obtaining-long-stay-visa-remote-work)
