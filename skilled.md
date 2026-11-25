@@ -255,6 +255,19 @@ Industry, who possess professional experience and technical skills.
 
 ### US
 
+#### [Employment-Based Immigration: First Preference EB-1A](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1)
+
+- Intro: The EB-1A visa is for individuals with extraordinary ability in the sciences, arts, education, business, or athletics. You must demonstrate sustained national or international acclaim through evidence such as major awards, published research, original contributions, or high salary. No job offer or labor certification is required.
+- Length of Stay: Permanently
+- [Eligibility Criteria](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-first-preference-eb-1)
+- [EB-1A Self-Assessment Tool](https://visacanvas.com/) - AI-powered tool to evaluate your profile against all 10 USCIS extraordinary ability criteria
+
+#### [Employment-Based Immigration: Second Preference EB-2 NIW](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2)
+
+- Intro: The National Interest Waiver (NIW) is a subcategory of the EB-2 visa that allows applicants to self-petition without a job offer or labor certification if their work is deemed to be in the national interest of the United States. Applicants must hold an advanced degree or demonstrate exceptional ability.
+- Length of Stay: Permanently
+- [Eligibility Info](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-second-preference-eb-2)
+
 #### [Employment-Based Immigration: Third Preference EB-3](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-third-preference-eb-3)
 
 - Intro: You may be eligible for this immigrant visa preference category if you are a skilled worker, professional, or other worker: 
