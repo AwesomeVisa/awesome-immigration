@@ -60,6 +60,13 @@
 - Intro: Tech.Pass is a visa that allows established tech entrepreneurs, leaders or technical experts from around the world to come to Singapore to perform frontier and disruptive innovations.
 - Length of Stay: 2 years
 
+### South Korea
+
+#### [D-10 Job Seeker Visa](https://www.hikorea.go.kr/cvfact/cvfact1.pt)
+
+- Intro: A points-based job seeker visa for foreign graduates seeking employment in Korea. Open to those with an associate's degree or higher from a Korean university (within 3 years of graduation), or those with TOPIK Level 4 or higher.
+- Length of Stay: 6 months, extendable up to 2 years total
+
 ### Sweden
 
 #### [Residence permit for highly qualified persons to look for work or start a business](https://www.migrationsverket.se/en/you-want-to-apply/work/look-for-work/look-for-work-or-start-a-business.html)
