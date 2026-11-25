@@ -109,6 +109,7 @@
 - Intro: Activities of engaging in work requiring specialized knowledge or skills in the field of natural sciences or humanities based on a contract entered into with a public or private organization in Japan.
 - Length of Stay: 5 years (maximum)
 - Minimum Points: 70
+- [Point Calculator (HSP Visa)](https://japan-refactor.com/high-skilled-professional-visa-japan-engineer/)  
 
 ### Ireland
 
